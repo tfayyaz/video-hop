@@ -29,3 +29,7 @@ $ tailwindcss -i ./static/src/main.css -o ./static/dist/main.css --minify
 >> Done in 315ms.
 ```
 
+
+Ideas:
+
+- Link to your own videos. Multiple videos

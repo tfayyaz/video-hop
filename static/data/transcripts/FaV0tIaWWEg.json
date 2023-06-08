@@ -1,0 +1,4635 @@
+{
+    "video_id": "FaV0tIaWWEg",
+    "video_name": "Full Keynote | Satya Nadella at Microsoft Build 2023",
+    "video_thumb_url": "/static/img/thumbs/1o_QDFq6gzE.png",
+    "video_date": "2023-05-24",
+    "video_short_description": "Opening Keynote by Satya Nadella at Microsoft Build 2023",
+    "video_transcript": [
+        {
+            "text": "It's like reading my mind.",
+            "start": 26.693,
+            "duration": 1.868,
+            "time": "00:00:26"
+        },
+        {
+            "text": "It's magic.",
+            "start": 28.561,
+            "duration": 1.335,
+            "time": "00:00:28"
+        },
+        {
+            "text": "We're innovating",
+            "start": 33.266,
+            "duration": 1.235,
+            "time": "00:00:33"
+        },
+        {
+            "text": "at a scale like never before.",
+            "start": 34.501,
+            "duration": 2.068,
+            "time": "00:00:34"
+        },
+        {
+            "text": "It takes what you prompt it with",
+            "start": 37.037,
+            "duration": 1.868,
+            "time": "00:00:37"
+        },
+        {
+            "text": "and just runs with it.",
+            "start": 38.905,
+            "duration": 1.602,
+            "time": "00:00:38"
+        },
+        {
+            "text": "Everything is linked.",
+            "start": 45.111,
+            "duration": 1.035,
+            "time": "00:00:45"
+        },
+        {
+            "text": "Everything is easy to use.",
+            "start": 46.146,
+            "duration": 1.701,
+            "time": "00:00:46"
+        },
+        {
+            "text": "We're accelerating how fast we can deliver",
+            "start": 48.815,
+            "duration": 2.302,
+            "time": "00:00:48"
+        },
+        {
+            "text": "solutions to our fans, to our business.",
+            "start": 51.117,
+            "duration": 1.936,
+            "time": "00:00:51"
+        },
+        {
+            "text": "It takes the hands-on time",
+            "start": 55.488,
+            "duration": 1.635,
+            "time": "00:00:55"
+        },
+        {
+            "text": "that the provider has to spend",
+            "start": 57.123,
+            "duration": 1.168,
+            "time": "00:00:57"
+        },
+        {
+            "text": "with the computer",
+            "start": 58.291,
+            "duration": 1.001,
+            "time": "00:00:58"
+        },
+        {
+            "text": "and puts that time back with the patient.",
+            "start": 59.292,
+            "duration": 2.903,
+            "time": "00:00:59"
+        },
+        {
+            "text": "It allows for the patient and doctor",
+            "start": 62.195,
+            "duration": 2.636,
+            "time": "00:01:02"
+        },
+        {
+            "text": "to be a patient and a doctor",
+            "start": 64.831,
+            "duration": 1.868,
+            "time": "00:01:04"
+        },
+        {
+            "text": "like it used to be.",
+            "start": 66.699,
+            "duration": 1.369,
+            "time": "00:01:06"
+        },
+        {
+            "text": "It's fundamentally",
+            "start": 68.068,
+            "duration": 0.834,
+            "time": "00:01:08"
+        },
+        {
+            "text": "about amplifying what\nevery person is able to do.",
+            "start": 68.902,
+            "duration": 1.168,
+            "time": "00:01:08"
+        },
+        {
+            "text": "every person is able to do.",
+            "start": 70.07,
+            "duration": 1.201,
+            "time": "00:01:10"
+        },
+        {
+            "text": "This opens up the opportunity",
+            "start": 74.874,
+            "duration": 2.169,
+            "time": "00:01:14"
+        },
+        {
+            "text": "for that farmer,",
+            "start": 77.043,
+            "duration": 0.834,
+            "time": "00:01:17"
+        },
+        {
+            "text": "for that girl in the village",
+            "start": 77.877,
+            "duration": 1.101,
+            "time": "00:01:17"
+        },
+        {
+            "text": "who's trying to go to college",
+            "start": 78.978,
+            "duration": 1.602,
+            "time": "00:01:18"
+        },
+        {
+            "text": "to find out what more",
+            "start": 80.58,
+            "duration": 1.368,
+            "time": "00:01:20"
+        },
+        {
+            "text": "can they do with their life.",
+            "start": 81.948,
+            "duration": 0.834,
+            "time": "00:01:21"
+        },
+        {
+            "text": "Good morning.",
+            "start": 116.9,
+            "duration": 5.455,
+            "time": "00:01:56"
+        },
+        {
+            "text": "Good morning.",
+            "start": 122.355,
+            "duration": 0.601,
+            "time": "00:02:02"
+        },
+        {
+            "text": "It's fantastic to see you all.",
+            "start": 122.956,
+            "duration": 1.952,
+            "time": "00:02:02"
+        },
+        {
+            "text": "Welcome to Build, all of those",
+            "start": 124.908,
+            "duration": 2.002,
+            "time": "00:02:04"
+        },
+        {
+            "text": "who made it here.",
+            "start": 126.91,
+            "duration": 1.268,
+            "time": "00:02:06"
+        },
+        {
+            "text": "You know, it's",
+            "start": 128.178,
+            "duration": 0.483,
+            "time": "00:02:08"
+        },
+        {
+            "text": "fantastic to be back together",
+            "start": 128.661,
+            "duration": 1.852,
+            "time": "00:02:08"
+        },
+        {
+            "text": "physically and everyone joining online.",
+            "start": 130.513,
+            "duration": 2.82,
+            "time": "00:02:10"
+        },
+        {
+            "text": "You know, these developer conferences are special",
+            "start": 133.333,
+            "duration": 2.969,
+            "time": "00:02:13"
+        },
+        {
+            "text": "times, special places to be,",
+            "start": 136.302,
+            "duration": 3.337,
+            "time": "00:02:16"
+        },
+        {
+            "text": "especially when platform shifts are in the air.",
+            "start": 139.639,
+            "duration": 4.288,
+            "time": "00:02:19"
+        },
+        {
+            "text": "I distinctly remember my first PDC in 1991,",
+            "start": 143.927,
+            "duration": 5.755,
+            "time": "00:02:23"
+        },
+        {
+            "text": "driving up 101 into Moscone Center,",
+            "start": 149.682,
+            "duration": 3.454,
+            "time": "00:02:29"
+        },
+        {
+            "text": "and my life changed after that",
+            "start": 153.136,
+            "duration": 4.104,
+            "time": "00:02:33"
+        },
+        {
+            "text": "developer conference.",
+            "start": 157.24,
+            "duration": 1.234,
+            "time": "00:02:37"
+        },
+        {
+            "text": "So it's exciting to be able",
+            "start": 158.474,
+            "duration": 1.769,
+            "time": "00:02:38"
+        },
+        {
+            "text": "to come back to Build 2023 with that same sense",
+            "start": 160.243,
+            "duration": 4.171,
+            "time": "00:02:40"
+        },
+        {
+            "text": "of anticipation of something big that is shifting",
+            "start": 164.414,
+            "duration": 3.987,
+            "time": "00:02:44"
+        },
+        {
+            "text": "around us as developers.",
+            "start": 168.401,
+            "duration": 2.619,
+            "time": "00:02:48"
+        },
+        {
+            "text": "To just sort of put this in perspective,",
+            "start": 171.02,
+            "duration": 2.486,
+            "time": "00:02:51"
+        },
+        {
+            "text": "in fact, last summer I was reading",
+            "start": 173.506,
+            "duration": 3.537,
+            "time": "00:02:53"
+        },
+        {
+            "text": "Mitchell Waldrop's Dream Machine",
+            "start": 177.043,
+            "duration": 2.92,
+            "time": "00:02:57"
+        },
+        {
+            "text": "while I was playing with DV3, as GPT-4",
+            "start": 179.963,
+            "duration": 3.553,
+            "time": "00:02:59"
+        },
+        {
+            "text": "was called then, Da Vinci 3",
+            "start": 183.516,
+            "duration": 3.671,
+            "time": "00:03:03"
+        },
+        {
+            "text": "and it just brought to -",
+            "start": 187.187,
+            "duration": 3.269,
+            "time": "00:03:07"
+        },
+        {
+            "text": "it brought in perspective what this is all about.",
+            "start": 190.456,
+            "duration": 4.438,
+            "time": "00:03:10"
+        },
+        {
+            "text": "I think that that concept of \u201cDream Machine\u201d",
+            "start": 194.894,
+            "duration": 3.42,
+            "time": "00:03:14"
+        },
+        {
+            "text": "perhaps best communicates",
+            "start": 198.314,
+            "duration": 2.77,
+            "time": "00:03:18"
+        },
+        {
+            "text": "what we have really been doing",
+            "start": 201.084,
+            "duration": 2.185,
+            "time": "00:03:21"
+        },
+        {
+            "text": "over the last 70 years, right?",
+            "start": 203.269,
+            "duration": 1.702,
+            "time": "00:03:23"
+        },
+        {
+            "text": "All the ways,",
+            "start": 204.971,
+            "duration": 0.667,
+            "time": "00:03:24"
+        },
+        {
+            "text": "starting with",
+            "start": 205.638,
+            "duration": 1.552,
+            "time": "00:03:25"
+        },
+        {
+            "text": "what Vannevar Bush wrote in his most",
+            "start": 207.19,
+            "duration": 2.386,
+            "time": "00:03:27"
+        },
+        {
+            "text": "seminal paper",
+            "start": 209.576,
+            "duration": 1.635,
+            "time": "00:03:29"
+        },
+        {
+            "text": "As We May Think,",
+            "start": 211.211,
+            "duration": 0.984,
+            "time": "00:03:31"
+        },
+        {
+            "text": "where he had all these concepts",
+            "start": 212.195,
+            "duration": 1.785,
+            "time": "00:03:32"
+        },
+        {
+            "text": "like associative memory,",
+            "start": 213.98,
+            "duration": 2.369,
+            "time": "00:03:33"
+        },
+        {
+            "text": "or what Licklider was the first one",
+            "start": 216.349,
+            "duration": 2.135,
+            "time": "00:03:36"
+        },
+        {
+            "text": "who even conceptualized",
+            "start": 218.484,
+            "duration": 1.252,
+            "time": "00:03:38"
+        },
+        {
+            "text": "the human computer symbiosis,",
+            "start": 219.736,
+            "duration": 2.736,
+            "time": "00:03:39"
+        },
+        {
+            "text": "The Mother of All Demos",
+            "start": 222.472,
+            "duration": 2.402,
+            "time": "00:03:42"
+        },
+        {
+            "text": "that came in \u201868 to the Xerox Alto,",
+            "start": 224.874,
+            "duration": 5.205,
+            "time": "00:03:44"
+        },
+        {
+            "text": "and then, of course, the PDC that I attended,",
+            "start": 230.079,
+            "duration": 3.37,
+            "time": "00:03:50"
+        },
+        {
+            "text": "which was the PC server one in \u201891,",
+            "start": 233.449,
+            "duration": 4.438,
+            "time": "00:03:53"
+        },
+        {
+            "text": "\u201893 is when we had the mosaic moment,",
+            "start": 237.887,
+            "duration": 3.837,
+            "time": "00:03:57"
+        },
+        {
+            "text": "then there was iPhone and the cloud,",
+            "start": 241.724,
+            "duration": 3.087,
+            "time": "00:04:01"
+        },
+        {
+            "text": "and all of these would be one continuous journey.",
+            "start": 244.811,
+            "duration": 4.171,
+            "time": "00:04:04"
+        },
+        {
+            "text": "And then, in fact, the other thing I always loved",
+            "start": 248.982,
+            "duration": 3.303,
+            "time": "00:04:08"
+        },
+        {
+            "text": "is Jobs's",
+            "start": 252.285,
+            "duration": 0.934,
+            "time": "00:04:12"
+        },
+        {
+            "text": "description of computers",
+            "start": 253.219,
+            "duration": 1.735,
+            "time": "00:04:13"
+        },
+        {
+            "text": "as bicycles for the mind.",
+            "start": 254.954,
+            "duration": 1.652,
+            "time": "00:04:14"
+        },
+        {
+            "text": "It's sort of a beautiful metaphor.",
+            "start": 256.606,
+            "duration": 1.652,
+            "time": "00:04:16"
+        },
+        {
+            "text": "I think it captures",
+            "start": 258.258,
+            "duration": 0.834,
+            "time": "00:04:18"
+        },
+        {
+            "text": "the essence of what computing is.",
+            "start": 259.092,
+            "duration": 3.069,
+            "time": "00:04:19"
+        },
+        {
+            "text": "But then last November,",
+            "start": 262.161,
+            "duration": 2.703,
+            "time": "00:04:22"
+        },
+        {
+            "text": "we got an upgrade, right?",
+            "start": 264.864,
+            "duration": 2.236,
+            "time": "00:04:24"
+        },
+        {
+            "text": "We went from the bicycle to the steam engine.",
+            "start": 267.1,
+            "duration": 5.071,
+            "time": "00:04:27"
+        },
+        {
+            "text": "With the launch of ChatGPT,",
+            "start": 272.171,
+            "duration": 3.104,
+            "time": "00:04:32"
+        },
+        {
+            "text": "it was like the mosaic moment for this generation",
+            "start": 275.275,
+            "duration": 4.404,
+            "time": "00:04:35"
+        },
+        {
+            "text": "of the AI platform.",
+            "start": 279.679,
+            "duration": 2.336,
+            "time": "00:04:39"
+        },
+        {
+            "text": "And now we look forward to, as developers,",
+            "start": 282.015,
+            "duration": 3.67,
+            "time": "00:04:42"
+        },
+        {
+            "text": "what we can do going forward.",
+            "start": 285.685,
+            "duration": 2.719,
+            "time": "00:04:45"
+        },
+        {
+            "text": "And so it's an exciting time.",
+            "start": 288.404,
+            "duration": 2.069,
+            "time": "00:04:48"
+        },
+        {
+            "text": "And in fact, every layer of the software stack",
+            "start": 290.473,
+            "duration": 2.92,
+            "time": "00:04:50"
+        },
+        {
+            "text": "is going to be changed forever.",
+            "start": 293.393,
+            "duration": 3.236,
+            "time": "00:04:53"
+        },
+        {
+            "text": "And no better place to start",
+            "start": 296.629,
+            "duration": 2.219,
+            "time": "00:04:56"
+        },
+        {
+            "text": "than the actual developer stack, right?",
+            "start": 298.848,
+            "duration": 3.003,
+            "time": "00:04:58"
+        },
+        {
+            "text": "We, as developers,",
+            "start": 301.884,
+            "duration": 2.002,
+            "time": "00:05:01"
+        },
+        {
+            "text": "how do we build is fundamentally changing.",
+            "start": 303.886,
+            "duration": 3.904,
+            "time": "00:05:03"
+        },
+        {
+            "text": "In fact, when I think about how we build,",
+            "start": 307.79,
+            "duration": 3.17,
+            "time": "00:05:07"
+        },
+        {
+            "text": "I think about first Codespaces, right?",
+            "start": 310.96,
+            "duration": 3.037,
+            "time": "00:05:10"
+        },
+        {
+            "text": "Being able to set up that environment in,",
+            "start": 313.997,
+            "duration": 3.236,
+            "time": "00:05:13"
+        },
+        {
+            "text": "you know, in seconds was versus minutes.",
+            "start": 317.233,
+            "duration": 2.669,
+            "time": "00:05:17"
+        },
+        {
+            "text": "Dev Box, you know,",
+            "start": 319.902,
+            "duration": 1.919,
+            "time": "00:05:19"
+        },
+        {
+            "text": "instead of waiting for a day",
+            "start": 321.821,
+            "duration": 1.602,
+            "time": "00:05:21"
+        },
+        {
+            "text": "for your managed",
+            "start": 323.423,
+            "duration": 0.75,
+            "time": "00:05:23"
+        },
+        {
+            "text": "dev box to be set up,",
+            "start": 324.173,
+            "duration": 1.368,
+            "time": "00:05:24"
+        },
+        {
+            "text": "you have it in less than an hour.",
+            "start": 325.541,
+            "duration": 2.736,
+            "time": "00:05:25"
+        },
+        {
+            "text": "If you think about Copilot, what it does to you,",
+            "start": 328.277,
+            "duration": 3.237,
+            "time": "00:05:28"
+        },
+        {
+            "text": "and Copilot X,",
+            "start": 331.514,
+            "duration": 1.301,
+            "time": "00:05:31"
+        },
+        {
+            "text": "in terms of driving the overall flow",
+            "start": 332.815,
+            "duration": 1.969,
+            "time": "00:05:32"
+        },
+        {
+            "text": "and productivity, which is, what, 54% or so up.",
+            "start": 334.784,
+            "duration": 4.288,
+            "time": "00:05:34"
+        },
+        {
+            "text": "And then of course GitHub Actions",
+            "start": 339.072,
+            "duration": 1.751,
+            "time": "00:05:39"
+        },
+        {
+            "text": "and Azure Deployment Environments,",
+            "start": 340.823,
+            "duration": 3.17,
+            "time": "00:05:40"
+        },
+        {
+            "text": "really making that possible for you to stay.",
+            "start": 343.993,
+            "duration": 2.92,
+            "time": "00:05:43"
+        },
+        {
+            "text": "In fact, one of the things that I keep on",
+            "start": 346.913,
+            "duration": 1.585,
+            "time": "00:05:46"
+        },
+        {
+            "text": "bugging Scott Guthrie for years is,",
+            "start": 348.498,
+            "duration": 1.952,
+            "time": "00:05:48"
+        },
+        {
+            "text": "\u201cHey, I want to stay in VS code,",
+            "start": 350.45,
+            "duration": 1.835,
+            "time": "00:05:50"
+        },
+        {
+            "text": "I want to stay in command line",
+            "start": 352.285,
+            "duration": 1.668,
+            "time": "00:05:52"
+        },
+        {
+            "text": "and let me do everything there.\u201d",
+            "start": 353.953,
+            "duration": 2.136,
+            "time": "00:05:53"
+        },
+        {
+            "text": "We are close, close to that dream.",
+            "start": 356.089,
+            "duration": 3.053,
+            "time": "00:05:56"
+        },
+        {
+            "text": "And that to me is bringing back",
+            "start": 359.142,
+            "duration": 3.486,
+            "time": "00:05:59"
+        },
+        {
+            "text": "both the joy of programming",
+            "start": 362.628,
+            "duration": 2.737,
+            "time": "00:06:02"
+        },
+        {
+            "text": "and the flow of programming.",
+            "start": 365.365,
+            "duration": 2.836,
+            "time": "00:06:05"
+        },
+        {
+            "text": "That ability to be able to stay on",
+            "start": 368.201,
+            "duration": 2.402,
+            "time": "00:06:08"
+        },
+        {
+            "text": "task, it's just so wonderful to see.",
+            "start": 370.603,
+            "duration": 3.487,
+            "time": "00:06:10"
+        },
+        {
+            "text": "So how we build software is radically different,",
+            "start": 374.09,
+            "duration": 5.105,
+            "time": "00:06:14"
+        },
+        {
+            "text": "but what we are going to build as developers",
+            "start": 379.195,
+            "duration": 4.137,
+            "time": "00:06:19"
+        },
+        {
+            "text": "is really the story of this developer conference.",
+            "start": 383.332,
+            "duration": 4.038,
+            "time": "00:06:23"
+        },
+        {
+            "text": "And what we build -",
+            "start": 387.37,
+            "duration": 1.601,
+            "time": "00:06:27"
+        },
+        {
+            "text": "we've been, you know,",
+            "start": 388.971,
+            "duration": 1.202,
+            "time": "00:06:28"
+        },
+        {
+            "text": "it's not like I came in on January 1st and said,",
+            "start": 390.173,
+            "duration": 2.869,
+            "time": "00:06:30"
+        },
+        {
+            "text": "\u201cLet's start doing press releases.\u201d",
+            "start": 393.042,
+            "duration": 1.535,
+            "time": "00:06:33"
+        },
+        {
+            "text": "But it does feel like that.",
+            "start": 394.577,
+            "duration": 2.486,
+            "time": "00:06:34"
+        },
+        {
+            "text": "It does feel like every week",
+            "start": 397.063,
+            "duration": 2.285,
+            "time": "00:06:37"
+        },
+        {
+            "text": "there is something new and,",
+            "start": 399.348,
+            "duration": 2.269,
+            "time": "00:06:39"
+        },
+        {
+            "text": "you know, we\u2019re infusing",
+            "start": 401.617,
+            "duration": 2.169,
+            "time": "00:06:41"
+        },
+        {
+            "text": "this new AI stack across all layers of it, right?",
+            "start": 403.786,
+            "duration": 3.654,
+            "time": "00:06:43"
+        },
+        {
+            "text": "So we started with tooling in GitHub -",
+            "start": 407.44,
+            "duration": 3.186,
+            "time": "00:06:47"
+        },
+        {
+            "text": "or rather, Copilot in GitHub.",
+            "start": 410.626,
+            "duration": 2.887,
+            "time": "00:06:50"
+        },
+        {
+            "text": "We did Copilot in Power Platform.",
+            "start": 413.513,
+            "duration": 3.27,
+            "time": "00:06:53"
+        },
+        {
+            "text": "And when it comes to productivity,",
+            "start": 416.783,
+            "duration": 1.368,
+            "time": "00:06:56"
+        },
+        {
+            "text": "Copilot in Microsoft 365,",
+            "start": 418.151,
+            "duration": 2.052,
+            "time": "00:06:58"
+        },
+        {
+            "text": "Copilot in Viva.",
+            "start": 420.203,
+            "duration": 1.201,
+            "time": "00:07:00"
+        },
+        {
+            "text": "With business process, it's",
+            "start": 421.404,
+            "duration": 1.201,
+            "time": "00:07:01"
+        },
+        {
+            "text": "the copilot in Dynamics 365.",
+            "start": 422.605,
+            "duration": 2.82,
+            "time": "00:07:02"
+        },
+        {
+            "text": "And when it comes to industry sort of workflows,",
+            "start": 425.425,
+            "duration": 3.987,
+            "time": "00:07:05"
+        },
+        {
+            "text": "what Nuance has done with DAX",
+            "start": 429.412,
+            "duration": 1.735,
+            "time": "00:07:09"
+        },
+        {
+            "text": "or the Security Copilot.",
+            "start": 431.147,
+            "duration": 2.853,
+            "time": "00:07:11"
+        },
+        {
+            "text": "Or the copilot,",
+            "start": 434.0,
+            "duration": 1.051,
+            "time": "00:07:14"
+        },
+        {
+            "text": "of course, for the web in Bing and Edge,",
+            "start": 435.051,
+            "duration": 2.569,
+            "time": "00:07:15"
+        },
+        {
+            "text": "features in LinkedIn, which are driven by AI,",
+            "start": 437.62,
+            "duration": 2.886,
+            "time": "00:07:17"
+        },
+        {
+            "text": "and of course the AI infrastructure",
+            "start": 440.506,
+            "duration": 2.019,
+            "time": "00:07:20"
+        },
+        {
+            "text": "with Azure OpenAI APIs",
+            "start": 442.525,
+            "duration": 2.102,
+            "time": "00:07:22"
+        },
+        {
+            "text": "and everything else around it, right?",
+            "start": 444.627,
+            "duration": 1.935,
+            "time": "00:07:24"
+        },
+        {
+            "text": "So every layer of the stack",
+            "start": 446.562,
+            "duration": 2.169,
+            "time": "00:07:26"
+        },
+        {
+            "text": "is profoundly changing.",
+            "start": 448.731,
+            "duration": 3.203,
+            "time": "00:07:28"
+        },
+        {
+            "text": "And we today are going to -",
+            "start": 451.934,
+            "duration": 3.304,
+            "time": "00:07:31"
+        },
+        {
+            "text": "as part of this developer conference,",
+            "start": 455.238,
+            "duration": 1.618,
+            "time": "00:07:35"
+        },
+        {
+            "text": "we're going to have 50+ more announcements,",
+            "start": 456.856,
+            "duration": 4.104,
+            "time": "00:07:36"
+        },
+        {
+            "text": "but I want to highlight five of them.",
+            "start": 460.96,
+            "duration": 3.187,
+            "time": "00:07:40"
+        },
+        {
+            "text": "The first is we are bringing",
+            "start": 464.147,
+            "duration": 3.937,
+            "time": "00:07:44"
+        },
+        {
+            "text": "search grounding in Bing to ChatGPT.",
+            "start": 468.084,
+            "duration": 3.804,
+            "time": "00:07:48"
+        },
+        {
+            "text": "We are very excited about this.",
+            "start": 471.888,
+            "duration": 1.985,
+            "time": "00:07:51"
+        },
+        {
+            "text": "Yeah, you can clap!",
+            "start": 473.873,
+            "duration": 6.44,
+            "time": "00:07:53"
+        },
+        {
+            "text": "Look, ChatGPT is the most fast-growing",
+            "start": 480.313,
+            "duration": 3.87,
+            "time": "00:08:00"
+        },
+        {
+            "text": "consumer app we've ever seen",
+            "start": 484.183,
+            "duration": 3.487,
+            "time": "00:08:04"
+        },
+        {
+            "text": "and such grounding is a very key feature, right?",
+            "start": 487.67,
+            "duration": 3.42,
+            "time": "00:08:07"
+        },
+        {
+            "text": "So that all the information is current",
+            "start": 491.09,
+            "duration": 2.002,
+            "time": "00:08:11"
+        },
+        {
+            "text": "and grounded by what you have",
+            "start": 493.092,
+            "duration": 2.719,
+            "time": "00:08:13"
+        },
+        {
+            "text": "from the crawl and the index.",
+            "start": 495.811,
+            "duration": 1.669,
+            "time": "00:08:15"
+        },
+        {
+            "text": "And so it's fantastic to see",
+            "start": 497.48,
+            "duration": 1.318,
+            "time": "00:08:17"
+        },
+        {
+            "text": "that we are excited to be able -",
+            "start": 498.798,
+            "duration": 1.218,
+            "time": "00:08:18"
+        },
+        {
+            "text": "it\u2019s going to launch in ChatGPT+",
+            "start": 500.016,
+            "duration": 2.302,
+            "time": "00:08:20"
+        },
+        {
+            "text": "immediately and quickly coming",
+            "start": 502.318,
+            "duration": 1.201,
+            "time": "00:08:22"
+        },
+        {
+            "text": "even to the free tier.",
+            "start": 503.519,
+            "duration": 1.602,
+            "time": "00:08:23"
+        },
+        {
+            "text": "And this is just the start of what we plan to do",
+            "start": 505.121,
+            "duration": 3.403,
+            "time": "00:08:25"
+        },
+        {
+            "text": "with our partners in OpenAI",
+            "start": 508.524,
+            "duration": 1.535,
+            "time": "00:08:28"
+        },
+        {
+            "text": "to bring the best of Bing to the ChatGPT experience.",
+            "start": 510.059,
+            "duration": 5.305,
+            "time": "00:08:30"
+        },
+        {
+            "text": "Next, we are bringing",
+            "start": 515.364,
+            "duration": 1.785,
+            "time": "00:08:35"
+        },
+        {
+            "text": "the copilot to the biggest canvas of all:",
+            "start": 517.149,
+            "duration": 3.12,
+            "time": "00:08:37"
+        },
+        {
+            "text": "Windows.",
+            "start": 520.269,
+            "duration": 6.991,
+            "time": "00:08:40"
+        },
+        {
+            "text": "You're going to hear a lot from Panos",
+            "start": 527.26,
+            "duration": 1.985,
+            "time": "00:08:47"
+        },
+        {
+            "text": "tomorrow about it, but I think that this is going",
+            "start": 529.245,
+            "duration": 3.003,
+            "time": "00:08:49"
+        },
+        {
+            "text": "to make every user a power user of Windows.",
+            "start": 532.248,
+            "duration": 3.403,
+            "time": "00:08:52"
+        },
+        {
+            "text": "Let's roll the video.",
+            "start": 535.651,
+            "duration": 3.003,
+            "time": "00:08:55"
+        },
+        {
+            "text": "It's so cool.",
+            "start": 622.004,
+            "duration": 3.003,
+            "time": "00:10:22"
+        },
+        {
+            "text": "So we're going to talk a lot more about Windows,",
+            "start": 629.745,
+            "duration": 2.887,
+            "time": "00:10:29"
+        },
+        {
+            "text": "you know, tomorrow when Panos is up here.",
+            "start": 632.632,
+            "duration": 3.687,
+            "time": "00:10:32"
+        },
+        {
+            "text": "The other thing that we're also very excited to",
+            "start": 636.319,
+            "duration": 3.203,
+            "time": "00:10:36"
+        },
+        {
+            "text": "launch is the Copilot stack, right?",
+            "start": 639.522,
+            "duration": 3.37,
+            "time": "00:10:39"
+        },
+        {
+            "text": "After all, we've built all these copilots",
+            "start": 642.892,
+            "duration": 1.802,
+            "time": "00:10:42"
+        },
+        {
+            "text": "with one common architectural stack.",
+            "start": 644.694,
+            "duration": 2.602,
+            "time": "00:10:44"
+        },
+        {
+            "text": "We want to make that available",
+            "start": 647.296,
+            "duration": 1.435,
+            "time": "00:10:47"
+        },
+        {
+            "text": "so that everyone here",
+            "start": 648.731,
+            "duration": 1.351,
+            "time": "00:10:48"
+        },
+        {
+            "text": "can build their own copilot",
+            "start": 650.082,
+            "duration": 1.685,
+            "time": "00:10:50"
+        },
+        {
+            "text": "for their applications.",
+            "start": 651.767,
+            "duration": 1.952,
+            "time": "00:10:51"
+        },
+        {
+            "text": "We will have everything from the AI",
+            "start": 653.719,
+            "duration": 3.17,
+            "time": "00:10:53"
+        },
+        {
+            "text": "infrastructure to the foundation models to the",
+            "start": 656.889,
+            "duration": 3.42,
+            "time": "00:10:56"
+        },
+        {
+            "text": "AI orchestration all the way up to your copilot",
+            "start": 660.309,
+            "duration": 3.22,
+            "time": "00:11:00"
+        },
+        {
+            "text": "and its extensibility.",
+            "start": 663.529,
+            "duration": 1.418,
+            "time": "00:11:03"
+        },
+        {
+            "text": "In fact, the other thing that we're going to do",
+            "start": 664.947,
+            "duration": 1.969,
+            "time": "00:11:04"
+        },
+        {
+            "text": "is have common",
+            "start": 666.916,
+            "duration": 1.017,
+            "time": "00:11:06"
+        },
+        {
+            "text": "extensibility across",
+            "start": 667.933,
+            "duration": 2.286,
+            "time": "00:11:07"
+        },
+        {
+            "text": "all of these surfaces, right?",
+            "start": 670.219,
+            "duration": 1.618,
+            "time": "00:11:10"
+        },
+        {
+            "text": "Whether it is ChatGPT,",
+            "start": 671.837,
+            "duration": 1.585,
+            "time": "00:11:11"
+        },
+        {
+            "text": "Bing Chat, Microsoft 365 Copilot,",
+            "start": 673.422,
+            "duration": 3.07,
+            "time": "00:11:13"
+        },
+        {
+            "text": "or all of the Microsoft copilots,",
+            "start": 676.492,
+            "duration": 1.668,
+            "time": "00:11:16"
+        },
+        {
+            "text": "and of course, your own copilots,",
+            "start": 678.16,
+            "duration": 2.136,
+            "time": "00:11:18"
+        },
+        {
+            "text": "we can share the same extensibility model.",
+            "start": 680.296,
+            "duration": 3.086,
+            "time": "00:11:20"
+        },
+        {
+            "text": "This is one of the most powerful things",
+            "start": 683.382,
+            "duration": 1.835,
+            "time": "00:11:23"
+        },
+        {
+            "text": "for your developers -",
+            "start": 685.217,
+            "duration": 1.435,
+            "time": "00:11:25"
+        },
+        {
+            "text": "for every developer to be able to write a plugin",
+            "start": 686.652,
+            "duration": 2.352,
+            "time": "00:11:26"
+        },
+        {
+            "text": "and have it reach billions of users",
+            "start": 689.004,
+            "duration": 2.753,
+            "time": "00:11:29"
+        },
+        {
+            "text": "across all of these surface areas.",
+            "start": 691.757,
+            "duration": 2.036,
+            "time": "00:11:31"
+        },
+        {
+            "text": "So to be able to show you everything",
+            "start": 693.793,
+            "duration": 2.435,
+            "time": "00:11:33"
+        },
+        {
+            "text": "in action",
+            "start": 696.228,
+            "duration": 0.784,
+            "time": "00:11:36"
+        },
+        {
+            "text": "from both the plugin extensibility",
+            "start": 697.012,
+            "duration": 2.57,
+            "time": "00:11:37"
+        },
+        {
+            "text": "to all of the copilots we announced,",
+            "start": 699.582,
+            "duration": 2.102,
+            "time": "00:11:39"
+        },
+        {
+            "text": "let me right up on stage Yusuf Mehdi",
+            "start": 701.684,
+            "duration": 2.619,
+            "time": "00:11:41"
+        },
+        {
+            "text": "to come show you all of this.",
+            "start": 704.303,
+            "duration": 1.218,
+            "time": "00:11:44"
+        },
+        {
+            "text": "Yusuf, let me throw it over to you.",
+            "start": 705.521,
+            "duration": 3.12,
+            "time": "00:11:45"
+        },
+        {
+            "text": "Hi, everybody.",
+            "start": 708.641,
+            "duration": 3.703,
+            "time": "00:11:48"
+        },
+        {
+            "text": "We're making fast progress on",
+            "start": 712.344,
+            "duration": 1.535,
+            "time": "00:11:52"
+        },
+        {
+            "text": "delivering our vision of your copilot",
+            "start": 713.879,
+            "duration": 2.186,
+            "time": "00:11:53"
+        },
+        {
+            "text": "for the web and for business.",
+            "start": 716.065,
+            "duration": 2.069,
+            "time": "00:11:56"
+        },
+        {
+            "text": "And today, as Satya said,",
+            "start": 718.134,
+            "duration": 1.451,
+            "time": "00:11:58"
+        },
+        {
+            "text": "we're excited to announce",
+            "start": 719.585,
+            "duration": 1.535,
+            "time": "00:11:59"
+        },
+        {
+            "text": "that we're going to bring",
+            "start": 721.12,
+            "duration": 0.55,
+            "time": "00:12:01"
+        },
+        {
+            "text": "ChatGPT and Bing together",
+            "start": 721.67,
+            "duration": 2.319,
+            "time": "00:12:01"
+        },
+        {
+            "text": "as the default search experience",
+            "start": 723.989,
+            "duration": 2.219,
+            "time": "00:12:03"
+        },
+        {
+            "text": "to give you higher quality answers",
+            "start": 726.208,
+            "duration": 1.669,
+            "time": "00:12:06"
+        },
+        {
+            "text": "and more timely answers.",
+            "start": 727.877,
+            "duration": 1.585,
+            "time": "00:12:07"
+        },
+        {
+            "text": "Let's take a look.",
+            "start": 729.462,
+            "duration": 1.368,
+            "time": "00:12:09"
+        },
+        {
+            "text": "Here I am in ChatGPT.",
+            "start": 730.83,
+            "duration": 1.551,
+            "time": "00:12:10"
+        },
+        {
+            "text": "And as you can see now,",
+            "start": 732.381,
+            "duration": 1.552,
+            "time": "00:12:12"
+        },
+        {
+            "text": "Bing is the default",
+            "start": 733.933,
+            "duration": 1.301,
+            "time": "00:12:13"
+        },
+        {
+            "text": "and when I come in and select it,",
+            "start": 735.234,
+            "duration": 1.685,
+            "time": "00:12:15"
+        },
+        {
+            "text": "I can now ask sort of real-time queries.",
+            "start": 736.919,
+            "duration": 2.402,
+            "time": "00:12:16"
+        },
+        {
+            "text": "For example,",
+            "start": 739.321,
+            "duration": 0.885,
+            "time": "00:12:19"
+        },
+        {
+            "text": "let's ask what I should expect to hear",
+            "start": 740.206,
+            "duration": 2.502,
+            "time": "00:12:20"
+        },
+        {
+            "text": "about Build and .NET.",
+            "start": 742.708,
+            "duration": 2.186,
+            "time": "00:12:22"
+        },
+        {
+            "text": "And what you can see is the results",
+            "start": 744.894,
+            "duration": 1.801,
+            "time": "00:12:24"
+        },
+        {
+            "text": "now are more up to date.",
+            "start": 746.695,
+            "duration": 1.552,
+            "time": "00:12:26"
+        },
+        {
+            "text": "They include fresh content",
+            "start": 748.247,
+            "duration": 1.351,
+            "time": "00:12:28"
+        },
+        {
+            "text": "and they include citations.",
+            "start": 749.598,
+            "duration": 1.569,
+            "time": "00:12:29"
+        },
+        {
+            "text": "In fact, if you can see the links",
+            "start": 751.167,
+            "duration": 1.251,
+            "time": "00:12:31"
+        },
+        {
+            "text": "on that page there,",
+            "start": 752.418,
+            "duration": 1.151,
+            "time": "00:12:32"
+        },
+        {
+            "text": "you can click those",
+            "start": 753.569,
+            "duration": 0.834,
+            "time": "00:12:33"
+        },
+        {
+            "text": "and those will take you straight",
+            "start": 754.403,
+            "duration": 1.135,
+            "time": "00:12:34"
+        },
+        {
+            "text": "to a web page that's sourced by Bing.",
+            "start": 755.538,
+            "duration": 2.953,
+            "time": "00:12:35"
+        },
+        {
+            "text": "We're also excited -",
+            "start": 758.491,
+            "duration": 1.051,
+            "time": "00:12:38"
+        },
+        {
+            "text": "yeah, absolutely, you can clap!",
+            "start": 759.542,
+            "duration": 1.401,
+            "time": "00:12:39"
+        },
+        {
+            "text": "We're also excited to announce",
+            "start": 765.064,
+            "duration": 1.485,
+            "time": "00:12:45"
+        },
+        {
+            "text": "that we're going to bring",
+            "start": 766.549,
+            "duration": 0.817,
+            "time": "00:12:46"
+        },
+        {
+            "text": "interoperability between ChatGPT and Bing",
+            "start": 767.383,
+            "duration": 3.553,
+            "time": "00:12:47"
+        },
+        {
+            "text": "for plugins.",
+            "start": 770.936,
+            "duration": 0.885,
+            "time": "00:12:50"
+        },
+        {
+            "text": "So you write them once",
+            "start": 771.821,
+            "duration": 1.184,
+            "time": "00:12:51"
+        },
+        {
+            "text": "and they're going to run everywhere.",
+            "start": 773.005,
+            "duration": 1.668,
+            "time": "00:12:53"
+        },
+        {
+            "text": "So as you can see here in ChatGPT,",
+            "start": 774.673,
+            "duration": 2.036,
+            "time": "00:12:54"
+        },
+        {
+            "text": "I've got Zillow and Instacart enabled,",
+            "start": 776.709,
+            "duration": 2.135,
+            "time": "00:12:56"
+        },
+        {
+            "text": "but I want to show them to you",
+            "start": 778.844,
+            "duration": 1.318,
+            "time": "00:12:58"
+        },
+        {
+            "text": "here in Bing Chat.",
+            "start": 780.162,
+            "duration": 0.968,
+            "time": "00:13:00"
+        },
+        {
+            "text": "So we'll flip over",
+            "start": 781.13,
+            "duration": 1.401,
+            "time": "00:13:01"
+        },
+        {
+            "text": "and you can see again,",
+            "start": 782.531,
+            "duration": 1.018,
+            "time": "00:13:02"
+        },
+        {
+            "text": "I've got the same plugins now",
+            "start": 783.549,
+            "duration": 1.835,
+            "time": "00:13:03"
+        },
+        {
+            "text": "in both Bing Chat and in ChatGPT.",
+            "start": 785.384,
+            "duration": 2.77,
+            "time": "00:13:05"
+        },
+        {
+            "text": "And what we're going to show you now is",
+            "start": 788.154,
+            "duration": 1.735,
+            "time": "00:13:08"
+        },
+        {
+            "text": "I'll do a search here for",
+            "start": 789.889,
+            "duration": 1.217,
+            "time": "00:13:09"
+        },
+        {
+            "text": "houses in Chicago.",
+            "start": 791.106,
+            "duration": 1.419,
+            "time": "00:13:11"
+        },
+        {
+            "text": "And I can ask for a set of criteria,",
+            "start": 792.525,
+            "duration": 1.434,
+            "time": "00:13:12"
+        },
+        {
+            "text": "I'll learn a little bit about",
+            "start": 793.959,
+            "duration": 0.784,
+            "time": "00:13:13"
+        },
+        {
+            "text": "the neighborhoods.",
+            "start": 794.743,
+            "duration": 1.318,
+            "time": "00:13:14"
+        },
+        {
+            "text": "And now I can automatically call Zillow",
+            "start": 796.061,
+            "duration": 2.47,
+            "time": "00:13:16"
+        },
+        {
+            "text": "by saying,",
+            "start": 798.531,
+            "duration": 0.634,
+            "time": "00:13:18"
+        },
+        {
+            "text": "hey, give me three houses",
+            "start": 799.165,
+            "duration": 1.251,
+            "time": "00:13:19"
+        },
+        {
+            "text": "in a certain price range",
+            "start": 800.416,
+            "duration": 1.385,
+            "time": "00:13:20"
+        },
+        {
+            "text": "that meet my criteria.",
+            "start": 801.801,
+            "duration": 1.818,
+            "time": "00:13:21"
+        },
+        {
+            "text": "And what you can see",
+            "start": 803.619,
+            "duration": 1.518,
+            "time": "00:13:23"
+        },
+        {
+            "text": "is now I get these great options",
+            "start": 805.137,
+            "duration": 1.969,
+            "time": "00:13:25"
+        },
+        {
+            "text": "and I'm also going to get",
+            "start": 807.106,
+            "duration": 0.901,
+            "time": "00:13:27"
+        },
+        {
+            "text": "all of the other great things",
+            "start": 808.007,
+            "duration": 1.017,
+            "time": "00:13:28"
+        },
+        {
+            "text": "you get with Bing, like",
+            "start": 809.024,
+            "duration": 0.985,
+            "time": "00:13:29"
+        },
+        {
+            "text": "helpful city guides and maps and prompts.",
+            "start": 810.009,
+            "duration": 3.503,
+            "time": "00:13:30"
+        },
+        {
+            "text": "I'm going to tell you now how",
+            "start": 813.512,
+            "duration": 0.818,
+            "time": "00:13:33"
+        },
+        {
+            "text": "we're going to further add value",
+            "start": 814.33,
+            "duration": 1.001,
+            "time": "00:13:34"
+        },
+        {
+            "text": "to the plugins that you write.",
+            "start": 815.331,
+            "duration": 1.368,
+            "time": "00:13:35"
+        },
+        {
+            "text": "They're going to work",
+            "start": 816.699,
+            "duration": 0.6,
+            "time": "00:13:36"
+        },
+        {
+            "text": "not just in chat and ChatGPT,",
+            "start": 817.299,
+            "duration": 2.086,
+            "time": "00:13:37"
+        },
+        {
+            "text": "they're going to work",
+            "start": 819.385,
+            "duration": 0.5,
+            "time": "00:13:39"
+        },
+        {
+            "text": "across the entire Web,",
+            "start": 819.885,
+            "duration": 1.735,
+            "time": "00:13:39"
+        },
+        {
+            "text": "courtesy of the Edge browser.",
+            "start": 821.62,
+            "duration": 1.869,
+            "time": "00:13:41"
+        },
+        {
+            "text": "So here's an example.",
+            "start": 823.489,
+            "duration": 0.967,
+            "time": "00:13:43"
+        },
+        {
+            "text": "I'm on a web page",
+            "start": 824.456,
+            "duration": 0.918,
+            "time": "00:13:44"
+        },
+        {
+            "text": "here checking out a recipe for a cake,",
+            "start": 825.374,
+            "duration": 2.219,
+            "time": "00:13:45"
+        },
+        {
+            "text": "and now I can call Bing Chat",
+            "start": 827.593,
+            "duration": 2.052,
+            "time": "00:13:47"
+        },
+        {
+            "text": "and ask it to tell me,",
+            "start": 829.645,
+            "duration": 1.101,
+            "time": "00:13:49"
+        },
+        {
+            "text": "hey, give me the ingredients",
+            "start": 830.746,
+            "duration": 1.285,
+            "time": "00:13:50"
+        },
+        {
+            "text": "from this web page.",
+            "start": 832.031,
+            "duration": 1.268,
+            "time": "00:13:52"
+        },
+        {
+            "text": "And notice Bing can read",
+            "start": 833.299,
+            "duration": 1.268,
+            "time": "00:13:53"
+        },
+        {
+            "text": "the context of the Web page,",
+            "start": 834.567,
+            "duration": 1.434,
+            "time": "00:13:54"
+        },
+        {
+            "text": "understand those ingredients,",
+            "start": 836.001,
+            "duration": 1.702,
+            "time": "00:13:56"
+        },
+        {
+            "text": "put them into chat,",
+            "start": 837.703,
+            "duration": 1.235,
+            "time": "00:13:57"
+        },
+        {
+            "text": "and then I can say,",
+            "start": 838.938,
+            "duration": 0.901,
+            "time": "00:13:58"
+        },
+        {
+            "text": "hey, give me a shopping list for this,",
+            "start": 839.839,
+            "duration": 1.618,
+            "time": "00:13:59"
+        },
+        {
+            "text": "and it'll automatically call",
+            "start": 841.457,
+            "duration": 1.201,
+            "time": "00:14:01"
+        },
+        {
+            "text": "the Instacart plugin,",
+            "start": 842.658,
+            "duration": 1.685,
+            "time": "00:14:02"
+        },
+        {
+            "text": "take those ingredients",
+            "start": 844.343,
+            "duration": 1.218,
+            "time": "00:14:04"
+        },
+        {
+            "text": "right off the page,",
+            "start": 845.561,
+            "duration": 0.784,
+            "time": "00:14:05"
+        },
+        {
+            "text": "and put them into an Instacart shopping.",
+            "start": 846.345,
+            "duration": 2.769,
+            "time": "00:14:06"
+        },
+        {
+            "text": "And with one click,",
+            "start": 849.114,
+            "duration": 1.135,
+            "time": "00:14:09"
+        },
+        {
+            "text": "I can get those now",
+            "start": 850.249,
+            "duration": 0.951,
+            "time": "00:14:10"
+        },
+        {
+            "text": "delivered to my house.",
+            "start": 851.2,
+            "duration": 1.418,
+            "time": "00:14:11"
+        },
+        {
+            "text": "This is incredible",
+            "start": 852.618,
+            "duration": 0.934,
+            "time": "00:14:12"
+        },
+        {
+            "text": "productivity benefit for people.",
+            "start": 853.552,
+            "duration": 1.368,
+            "time": "00:14:13"
+        },
+        {
+            "text": "Let's show you how you'll be",
+            "start": 862.978,
+            "duration": 1.502,
+            "time": "00:14:22"
+        },
+        {
+            "text": "more productive at work.",
+            "start": 864.48,
+            "duration": 1.485,
+            "time": "00:14:24"
+        },
+        {
+            "text": "Here I'm going to use",
+            "start": 865.965,
+            "duration": 1.368,
+            "time": "00:14:25"
+        },
+        {
+            "text": "Microsoft 365 Copilot.",
+            "start": 867.333,
+            "duration": 2.552,
+            "time": "00:14:27"
+        },
+        {
+            "text": "Now I'm in Microsoft Word",
+            "start": 869.885,
+            "duration": 1.502,
+            "time": "00:14:29"
+        },
+        {
+            "text": "and I'm going to need some help",
+            "start": 871.387,
+            "duration": 1.585,
+            "time": "00:14:31"
+        },
+        {
+            "text": "for drafting a legal contract.",
+            "start": 872.972,
+            "duration": 1.468,
+            "time": "00:14:32"
+        },
+        {
+            "text": "I got a legal contract here",
+            "start": 874.44,
+            "duration": 1.568,
+            "time": "00:14:34"
+        },
+        {
+            "text": "and I need some help with California law.",
+            "start": 876.008,
+            "duration": 2.269,
+            "time": "00:14:36"
+        },
+        {
+            "text": "So I'm going to call three plugins",
+            "start": 878.277,
+            "duration": 1.568,
+            "time": "00:14:38"
+        },
+        {
+            "text": "from Thomson Reuters",
+            "start": 879.845,
+            "duration": 0.868,
+            "time": "00:14:39"
+        },
+        {
+            "text": "to edit this document.",
+            "start": 880.713,
+            "duration": 1.801,
+            "time": "00:14:40"
+        },
+        {
+            "text": "First thing is, I'll go into Copilot",
+            "start": 882.514,
+            "duration": 1.886,
+            "time": "00:14:42"
+        },
+        {
+            "text": "and I'll pull it up and I'll say,",
+            "start": 884.4,
+            "duration": 1.902,
+            "time": "00:14:44"
+        },
+        {
+            "text": "hey, help me understand",
+            "start": 886.302,
+            "duration": 1.384,
+            "time": "00:14:46"
+        },
+        {
+            "text": "how to edit the limitation of liability",
+            "start": 887.686,
+            "duration": 2.586,
+            "time": "00:14:47"
+        },
+        {
+            "text": "using the practical law plugin.",
+            "start": 890.272,
+            "duration": 2.386,
+            "time": "00:14:50"
+        },
+        {
+            "text": "It'll read the document,",
+            "start": 892.658,
+            "duration": 1.318,
+            "time": "00:14:52"
+        },
+        {
+            "text": "find the paragraph, and make that change.",
+            "start": 893.976,
+            "duration": 3.086,
+            "time": "00:14:53"
+        },
+        {
+            "text": "Next, I want to know",
+            "start": 897.062,
+            "duration": 1.085,
+            "time": "00:14:57"
+        },
+        {
+            "text": "if this is enforceable",
+            "start": 898.163,
+            "duration": 1.185,
+            "time": "00:14:58"
+        },
+        {
+            "text": "under California law,",
+            "start": 899.348,
+            "duration": 1.518,
+            "time": "00:14:59"
+        },
+        {
+            "text": "so I'll call the Westlaw plugin",
+            "start": 900.866,
+            "duration": 2.052,
+            "time": "00:15:00"
+        },
+        {
+            "text": "that will do that analysis",
+            "start": 902.918,
+            "duration": 1.318,
+            "time": "00:15:02"
+        },
+        {
+            "text": "and it'll come back",
+            "start": 904.236,
+            "duration": 0.834,
+            "time": "00:15:04"
+        },
+        {
+            "text": "and give you an analysis about it",
+            "start": 905.07,
+            "duration": 1.452,
+            "time": "00:15:05"
+        },
+        {
+            "text": "from a legal perspective.",
+            "start": 906.522,
+            "duration": 1.935,
+            "time": "00:15:06"
+        },
+        {
+            "text": "And finally,",
+            "start": 908.457,
+            "duration": 0.801,
+            "time": "00:15:08"
+        },
+        {
+            "text": "since we're making lots of changes,",
+            "start": 909.258,
+            "duration": 1.101,
+            "time": "00:15:09"
+        },
+        {
+            "text": "I'd like to know",
+            "start": 910.359,
+            "duration": 1.051,
+            "time": "00:15:10"
+        },
+        {
+            "text": "the summary of all of these changes.",
+            "start": 911.41,
+            "duration": 1.952,
+            "time": "00:15:11"
+        },
+        {
+            "text": "And with Document Intelligence,",
+            "start": 913.362,
+            "duration": 1.285,
+            "time": "00:15:13"
+        },
+        {
+            "text": "I get a simple table",
+            "start": 914.647,
+            "duration": 1.468,
+            "time": "00:15:14"
+        },
+        {
+            "text": "that shows you all of those changes",
+            "start": 916.115,
+            "duration": 1.651,
+            "time": "00:15:16"
+        },
+        {
+            "text": "in an easy-to-read format.",
+            "start": 917.766,
+            "duration": 1.852,
+            "time": "00:15:17"
+        },
+        {
+            "text": "By joining the power of",
+            "start": 919.618,
+            "duration": 1.035,
+            "time": "00:15:19"
+        },
+        {
+            "text": "Microsoft 365 Copilot in Word",
+            "start": 920.653,
+            "duration": 2.485,
+            "time": "00:15:20"
+        },
+        {
+            "text": "with the support",
+            "start": 923.138,
+            "duration": 0.718,
+            "time": "00:15:23"
+        },
+        {
+            "text": "of these real powerful plugins",
+            "start": 923.856,
+            "duration": 1.418,
+            "time": "00:15:23"
+        },
+        {
+            "text": "like Thomson Reuters,",
+            "start": 925.274,
+            "duration": 1.068,
+            "time": "00:15:25"
+        },
+        {
+            "text": "now you can draft a legal contract",
+            "start": 926.342,
+            "duration": 1.801,
+            "time": "00:15:26"
+        },
+        {
+            "text": "in so much more powerful way.",
+            "start": 928.143,
+            "duration": 1.435,
+            "time": "00:15:28"
+        },
+        {
+            "text": "Let me show you one more.",
+            "start": 930.779,
+            "duration": 1.235,
+            "time": "00:15:30"
+        },
+        {
+            "text": "Here I am in Teams chat",
+            "start": 932.014,
+            "duration": 1.518,
+            "time": "00:15:32"
+        },
+        {
+            "text": "and I'm engaging with",
+            "start": 933.549,
+            "duration": 1.184,
+            "time": "00:15:33"
+        },
+        {
+            "text": "Microsoft 365 Copilot",
+            "start": 934.733,
+            "duration": 1.518,
+            "time": "00:15:34"
+        },
+        {
+            "text": "to track website changes.",
+            "start": 936.251,
+            "duration": 1.969,
+            "time": "00:15:36"
+        },
+        {
+            "text": "Copilot will just call the Atlassian plugin",
+            "start": 938.22,
+            "duration": 2.336,
+            "time": "00:15:38"
+        },
+        {
+            "text": "to help.",
+            "start": 940.556,
+            "duration": 1.051,
+            "time": "00:15:40"
+        },
+        {
+            "text": "Atlassian Jira specializes in project",
+            "start": 941.607,
+            "duration": 2.336,
+            "time": "00:15:41"
+        },
+        {
+            "text": "and issue tracking.",
+            "start": 943.943,
+            "duration": 1.267,
+            "time": "00:15:43"
+        },
+        {
+            "text": "So it'll pull the Jira ticket",
+            "start": 945.21,
+            "duration": 1.469,
+            "time": "00:15:45"
+        },
+        {
+            "text": "automatically with the plugin.",
+            "start": 946.679,
+            "duration": 1.685,
+            "time": "00:15:46"
+        },
+        {
+            "text": "And now all I have to do is",
+            "start": 948.364,
+            "duration": 1.735,
+            "time": "00:15:48"
+        },
+        {
+            "text": "assign an owner",
+            "start": 950.099,
+            "duration": 1.735,
+            "time": "00:15:50"
+        },
+        {
+            "text": "using the Azure Active Directory",
+            "start": 951.834,
+            "duration": 1.985,
+            "time": "00:15:51"
+        },
+        {
+            "text": "and that's it.",
+            "start": 953.819,
+            "duration": 0.767,
+            "time": "00:15:53"
+        },
+        {
+            "text": "It's all done.",
+            "start": 954.586,
+            "duration": 1.369,
+            "time": "00:15:54"
+        },
+        {
+            "text": "So with plugins",
+            "start": 955.955,
+            "duration": 0.867,
+            "time": "00:15:55"
+        },
+        {
+            "text": "and Microsoft 365 Copilot,",
+            "start": 956.822,
+            "duration": 2.069,
+            "time": "00:15:56"
+        },
+        {
+            "text": "you can intelligent reason across",
+            "start": 958.891,
+            "duration": 1.985,
+            "time": "00:15:58"
+        },
+        {
+            "text": "all of your business apps",
+            "start": 960.876,
+            "duration": 1.251,
+            "time": "00:16:00"
+        },
+        {
+            "text": "and the data stored",
+            "start": 962.127,
+            "duration": 1.018,
+            "time": "00:16:02"
+        },
+        {
+            "text": "on the Microsoft Graph",
+            "start": 963.145,
+            "duration": 1.301,
+            "time": "00:16:03"
+        },
+        {
+            "text": "to keep you in your flow.",
+            "start": 964.446,
+            "duration": 2.186,
+            "time": "00:16:04"
+        },
+        {
+            "text": "Finally, as Satya shared,",
+            "start": 966.632,
+            "duration": 2.269,
+            "time": "00:16:06"
+        },
+        {
+            "text": "we're excited to announce the",
+            "start": 968.901,
+            "duration": 1.735,
+            "time": "00:16:08"
+        },
+        {
+            "text": "Windows Copilot.",
+            "start": 970.636,
+            "duration": 1.485,
+            "time": "00:16:10"
+        },
+        {
+            "text": "I think it's going to change",
+            "start": 972.121,
+            "duration": 1.134,
+            "time": "00:16:12"
+        },
+        {
+            "text": "how you use your PC forever.",
+            "start": 973.255,
+            "duration": 2.002,
+            "time": "00:16:13"
+        },
+        {
+            "text": "Let me show it to you.",
+            "start": 975.574,
+            "duration": 1.068,
+            "time": "00:16:15"
+        },
+        {
+            "text": "Here I am, in a coding project on my PC,",
+            "start": 976.642,
+            "duration": 2.886,
+            "time": "00:16:16"
+        },
+        {
+            "text": "but I want to configure my PC",
+            "start": 979.528,
+            "duration": 1.685,
+            "time": "00:16:19"
+        },
+        {
+            "text": "to help me be more creative",
+            "start": 981.213,
+            "duration": 1.101,
+            "time": "00:16:21"
+        },
+        {
+            "text": "and more productive.",
+            "start": 982.314,
+            "duration": 1.435,
+            "time": "00:16:22"
+        },
+        {
+            "text": "All I have to do now",
+            "start": 983.749,
+            "duration": 1.051,
+            "time": "00:16:23"
+        },
+        {
+            "text": "is invoke the Windows Copilot.",
+            "start": 984.8,
+            "duration": 1.802,
+            "time": "00:16:24"
+        },
+        {
+            "text": "I now just come down here to the taskbar.",
+            "start": 986.602,
+            "duration": 2.285,
+            "time": "00:16:26"
+        },
+        {
+            "text": "I click on that",
+            "start": 988.887,
+            "duration": 0.935,
+            "time": "00:16:28"
+        },
+        {
+            "text": "and now we'll pop up the",
+            "start": 989.822,
+            "duration": 1.318,
+            "time": "00:16:29"
+        },
+        {
+            "text": "Windows Copilot on the right.",
+            "start": 991.14,
+            "duration": 1.585,
+            "time": "00:16:31"
+        },
+        {
+            "text": "This side pane here will be consistent",
+            "start": 992.725,
+            "duration": 1.851,
+            "time": "00:16:32"
+        },
+        {
+            "text": "across every app that you use on your PC.",
+            "start": 994.576,
+            "duration": 2.686,
+            "time": "00:16:34"
+        },
+        {
+            "text": "And just like with Bing Chat,",
+            "start": 997.262,
+            "duration": 1.402,
+            "time": "00:16:37"
+        },
+        {
+            "text": "I can now ask it questions like,",
+            "start": 998.664,
+            "duration": 1.835,
+            "time": "00:16:38"
+        },
+        {
+            "text": "how can I adjust my system",
+            "start": 1000.499,
+            "duration": 1.201,
+            "time": "00:16:40"
+        },
+        {
+            "text": "to get work done?",
+            "start": 1001.7,
+            "duration": 1.201,
+            "time": "00:16:41"
+        },
+        {
+            "text": "And not only will I get",
+            "start": 1002.901,
+            "duration": 0.901,
+            "time": "00:16:42"
+        },
+        {
+            "text": "a bunch of great suggestions,",
+            "start": 1003.802,
+            "duration": 1.252,
+            "time": "00:16:43"
+        },
+        {
+            "text": "but watch this.",
+            "start": 1005.054,
+            "duration": 0.85,
+            "time": "00:16:45"
+        },
+        {
+            "text": "I can now, with one click,",
+            "start": 1005.904,
+            "duration": 1.552,
+            "time": "00:16:45"
+        },
+        {
+            "text": "take action on those suggestions.",
+            "start": 1007.456,
+            "duration": 1.568,
+            "time": "00:16:47"
+        },
+        {
+            "text": "For example, I can put into focus mode.",
+            "start": 1009.024,
+            "duration": 2.186,
+            "time": "00:16:49"
+        },
+        {
+            "text": "I also know that as developers,",
+            "start": 1012.344,
+            "duration": 1.635,
+            "time": "00:16:52"
+        },
+        {
+            "text": "we like dark mode -",
+            "start": 1013.979,
+            "duration": 0.851,
+            "time": "00:16:53"
+        },
+        {
+            "text": "there's a suggestion here for dark mode -",
+            "start": 1014.83,
+            "duration": 1.602,
+            "time": "00:16:54"
+        },
+        {
+            "text": "so with one click,",
+            "start": 1016.432,
+            "duration": 1.134,
+            "time": "00:16:56"
+        },
+        {
+            "text": "I'm now here on the dark side",
+            "start": 1017.566,
+            "duration": 1.985,
+            "time": "00:16:57"
+        },
+        {
+            "text": "and to really get going,",
+            "start": 1019.551,
+            "duration": 1.952,
+            "time": "00:16:59"
+        },
+        {
+            "text": "I want to get that coding playlist going.",
+            "start": 1021.503,
+            "duration": 1.969,
+            "time": "00:17:01"
+        },
+        {
+            "text": "So I'll pull the plugin from Spotify",
+            "start": 1023.472,
+            "duration": 2.286,
+            "time": "00:17:03"
+        },
+        {
+            "text": "and say, give me a great coding playlist.",
+            "start": 1025.758,
+            "duration": 2.852,
+            "time": "00:17:05"
+        },
+        {
+            "text": "In this case, Chill Vibes will come up,",
+            "start": 1028.61,
+            "duration": 2.153,
+            "time": "00:17:08"
+        },
+        {
+            "text": "and now I'll have it ready to go.",
+            "start": 1030.763,
+            "duration": 1.801,
+            "time": "00:17:10"
+        },
+        {
+            "text": "And finally,",
+            "start": 1032.564,
+            "duration": 0.718,
+            "time": "00:17:12"
+        },
+        {
+            "text": "there's a suggestion here",
+            "start": 1033.282,
+            "duration": 1.268,
+            "time": "00:17:13"
+        },
+        {
+            "text": "that says, hey, to organize your PC,",
+            "start": 1034.55,
+            "duration": 1.985,
+            "time": "00:17:14"
+        },
+        {
+            "text": "let's take advantage of snap.",
+            "start": 1036.535,
+            "duration": 1.485,
+            "time": "00:17:16"
+        },
+        {
+            "text": "So with one click,",
+            "start": 1038.02,
+            "duration": 0.884,
+            "time": "00:17:18"
+        },
+        {
+            "text": "it snaps all the windows",
+            "start": 1038.904,
+            "duration": 1.735,
+            "time": "00:17:18"
+        },
+        {
+            "text": "right in the place.",
+            "start": 1040.639,
+            "duration": 0.901,
+            "time": "00:17:20"
+        },
+        {
+            "text": "I need them so I can be super productive.",
+            "start": 1041.54,
+            "duration": 2.619,
+            "time": "00:17:21"
+        },
+        {
+            "text": "What do you think?",
+            "start": 1044.159,
+            "duration": 0.918,
+            "time": "00:17:24"
+        },
+        {
+            "text": "So as you can see,",
+            "start": 1050.632,
+            "duration": 1.135,
+            "time": "00:17:30"
+        },
+        {
+            "text": "we have an incredible array",
+            "start": 1051.767,
+            "duration": 1.385,
+            "time": "00:17:31"
+        },
+        {
+            "text": "of powerful AI-powered copilots.",
+            "start": 1053.152,
+            "duration": 2.035,
+            "time": "00:17:33"
+        },
+        {
+            "text": "We've got over 50 plugins",
+            "start": 1055.187,
+            "duration": 1.468,
+            "time": "00:17:35"
+        },
+        {
+            "text": "already available",
+            "start": 1056.655,
+            "duration": 0.818,
+            "time": "00:17:36"
+        },
+        {
+            "text": "for customers and thousands more coming.",
+            "start": 1057.473,
+            "duration": 2.402,
+            "time": "00:17:37"
+        },
+        {
+            "text": "I can't wait to see",
+            "start": 1059.875,
+            "duration": 0.901,
+            "time": "00:17:39"
+        },
+        {
+            "text": "what you're all going to build.",
+            "start": 1060.776,
+            "duration": 1.068,
+            "time": "00:17:40"
+        },
+        {
+            "text": "Thank you very much.",
+            "start": 1061.844,
+            "duration": 0.634,
+            "time": "00:17:41"
+        },
+        {
+            "text": "Thanks, Yusuf.",
+            "start": 1064.446,
+            "duration": 3.871,
+            "time": "00:17:44"
+        },
+        {
+            "text": "Thank you, Yusuf.",
+            "start": 1068.317,
+            "duration": 1.351,
+            "time": "00:17:48"
+        },
+        {
+            "text": "We have, as Yusuf said,",
+            "start": 1069.668,
+            "duration": 1.318,
+            "time": "00:17:49"
+        },
+        {
+            "text": "fantastic momentum already building.",
+            "start": 1070.986,
+            "duration": 2.636,
+            "time": "00:17:50"
+        },
+        {
+            "text": "And this is about really creating",
+            "start": 1073.622,
+            "duration": 1.869,
+            "time": "00:17:53"
+        },
+        {
+            "text": "that opportunity for developers",
+            "start": 1075.491,
+            "duration": 1.735,
+            "time": "00:17:55"
+        },
+        {
+            "text": "to reach all users across",
+            "start": 1077.226,
+            "duration": 2.018,
+            "time": "00:17:57"
+        },
+        {
+            "text": "all of these surface areas",
+            "start": 1079.244,
+            "duration": 1.218,
+            "time": "00:17:59"
+        },
+        {
+            "text": "and we are so excited",
+            "start": 1080.462,
+            "duration": 1.118,
+            "time": "00:18:00"
+        },
+        {
+            "text": "to see how you go about exploiting",
+            "start": 1081.58,
+            "duration": 3.003,
+            "time": "00:18:01"
+        },
+        {
+            "text": "that opportunity in the weeks and months to come.",
+            "start": 1084.583,
+            "duration": 3.871,
+            "time": "00:18:04"
+        },
+        {
+            "text": "Of course, when we talk about the",
+            "start": 1088.454,
+            "duration": 1.801,
+            "time": "00:18:08"
+        },
+        {
+            "text": "AI platform and the Copilot stack,",
+            "start": 1090.255,
+            "duration": 2.52,
+            "time": "00:18:10"
+        },
+        {
+            "text": "the next thing for us,",
+            "start": 1092.775,
+            "duration": 1.217,
+            "time": "00:18:12"
+        },
+        {
+            "text": "which is really exciting, is AI Studio.",
+            "start": 1093.992,
+            "duration": 4.021,
+            "time": "00:18:13"
+        },
+        {
+            "text": "This is the full lifecycle toolchain",
+            "start": 1098.013,
+            "duration": 4.021,
+            "time": "00:18:18"
+        },
+        {
+            "text": "for you to be able",
+            "start": 1102.034,
+            "duration": 0.751,
+            "time": "00:18:22"
+        },
+        {
+            "text": "to build your intelligent AI apps",
+            "start": 1102.785,
+            "duration": 2.702,
+            "time": "00:18:22"
+        },
+        {
+            "text": "and your copilots.",
+            "start": 1105.487,
+            "duration": 1.568,
+            "time": "00:18:25"
+        },
+        {
+            "text": "Everything from being able",
+            "start": 1107.055,
+            "duration": 1.786,
+            "time": "00:18:27"
+        },
+        {
+            "text": "to train your own models",
+            "start": 1108.841,
+            "duration": 2.135,
+            "time": "00:18:28"
+        },
+        {
+            "text": "to be able to then ground, whether it's OpenAI",
+            "start": 1110.976,
+            "duration": 2.753,
+            "time": "00:18:30"
+        },
+        {
+            "text": "or any open source model, with data",
+            "start": 1113.729,
+            "duration": 3.904,
+            "time": "00:18:33"
+        },
+        {
+            "text": "that you bring.",
+            "start": 1117.633,
+            "duration": 2.886,
+            "time": "00:18:37"
+        },
+        {
+            "text": "Built-in vector Indexing in Azure Search,",
+            "start": 1120.519,
+            "duration": 2.502,
+            "time": "00:18:40"
+        },
+        {
+            "text": "built-in support",
+            "start": 1123.021,
+            "duration": 1.218,
+            "time": "00:18:43"
+        },
+        {
+            "text": "for RAG -",
+            "start": 1124.239,
+            "duration": 1.652,
+            "time": "00:18:44"
+        },
+        {
+            "text": " or retrieval augmented generation -",
+            "start": 1125.891,
+            "duration": 3.303,
+            "time": "00:18:45"
+        },
+        {
+            "text": "support, and built-in support for",
+            "start": 1129.194,
+            "duration": 1.619,
+            "time": "00:18:49"
+        },
+        {
+            "text": "prompt engineering",
+            "start": 1130.813,
+            "duration": 0.95,
+            "time": "00:18:50"
+        },
+        {
+            "text": "with prompt flow and orchestration,",
+            "start": 1131.763,
+            "duration": 3.003,
+            "time": "00:18:51"
+        },
+        {
+            "text": "and of course, built-in support",
+            "start": 1134.766,
+            "duration": 2.486,
+            "time": "00:18:54"
+        },
+        {
+            "text": "for perhaps the most important feature,",
+            "start": 1137.252,
+            "duration": 2.92,
+            "time": "00:18:57"
+        },
+        {
+            "text": "which is AI safety.",
+            "start": 1140.172,
+            "duration": 1.768,
+            "time": "00:19:00"
+        },
+        {
+            "text": "One of the things that we've been hard",
+            "start": 1141.94,
+            "duration": 1.685,
+            "time": "00:19:01"
+        },
+        {
+            "text": "at work is to build into the toolchain is AI safety.",
+            "start": 1143.625,
+            "duration": 4.605,
+            "time": "00:19:03"
+        },
+        {
+            "text": "We've been at work on AI safety",
+            "start": 1148.23,
+            "duration": 3.42,
+            "time": "00:19:08"
+        },
+        {
+            "text": "for the last five years.",
+            "start": 1151.65,
+            "duration": 1.151,
+            "time": "00:19:11"
+        },
+        {
+            "text": "We have principles,",
+            "start": 1152.801,
+            "duration": 1.135,
+            "time": "00:19:12"
+        },
+        {
+            "text": "which we have translated",
+            "start": 1153.936,
+            "duration": 1.017,
+            "time": "00:19:13"
+        },
+        {
+            "text": "into our core set of processes that we implement",
+            "start": 1154.953,
+            "duration": 3.153,
+            "time": "00:19:14"
+        },
+        {
+            "text": "across our engineering stack.",
+            "start": 1158.106,
+            "duration": 1.585,
+            "time": "00:19:18"
+        },
+        {
+            "text": "And then, of course, we have",
+            "start": 1159.691,
+            "duration": 0.868,
+            "time": "00:19:19"
+        },
+        {
+            "text": "all of the compliance and oversight.",
+            "start": 1160.559,
+            "duration": 2.135,
+            "time": "00:19:20"
+        },
+        {
+            "text": "But the real challenge",
+            "start": 1162.694,
+            "duration": 1.318,
+            "time": "00:19:22"
+        },
+        {
+            "text": "is not just to have these things",
+            "start": 1164.012,
+            "duration": 1.802,
+            "time": "00:19:24"
+        },
+        {
+            "text": "outside the engineering process,",
+            "start": 1165.814,
+            "duration": 1.952,
+            "time": "00:19:25"
+        },
+        {
+            "text": "but to build it into the everyday toolchain.",
+            "start": 1167.766,
+            "duration": 2.97,
+            "time": "00:19:27"
+        },
+        {
+            "text": "And that's what we are doing with AI Studio.",
+            "start": 1170.736,
+            "duration": 2.819,
+            "time": "00:19:30"
+        },
+        {
+            "text": "And it starts with testing.",
+            "start": 1173.555,
+            "duration": 2.186,
+            "time": "00:19:33"
+        },
+        {
+            "text": "There is the Responsible AI dashboard",
+            "start": 1175.741,
+            "duration": 1.918,
+            "time": "00:19:35"
+        },
+        {
+            "text": "that helps you during the testing phase to ensure",
+            "start": 1177.659,
+            "duration": 3.304,
+            "time": "00:19:37"
+        },
+        {
+            "text": "that what you're developing is safe.",
+            "start": 1180.963,
+            "duration": 2.619,
+            "time": "00:19:40"
+        },
+        {
+            "text": "We have grounding.",
+            "start": 1183.582,
+            "duration": 1.485,
+            "time": "00:19:43"
+        },
+        {
+            "text": "In fact,",
+            "start": 1185.067,
+            "duration": 0.55,
+            "time": "00:19:45"
+        },
+        {
+            "text": "the prompt flow is perhaps",
+            "start": 1185.617,
+            "duration": 1.702,
+            "time": "00:19:45"
+        },
+        {
+            "text": "one of the best features",
+            "start": 1187.319,
+            "duration": 1.051,
+            "time": "00:19:47"
+        },
+        {
+            "text": "for you to be able to ground your models.",
+            "start": 1188.37,
+            "duration": 3.72,
+            "time": "00:19:48"
+        },
+        {
+            "text": "You have provenance,",
+            "start": 1192.09,
+            "duration": 1.202,
+            "time": "00:19:52"
+        },
+        {
+            "text": "provenance for media provenance,",
+            "start": 1193.292,
+            "duration": 1.918,
+            "time": "00:19:53"
+        },
+        {
+            "text": "support for images and videos,",
+            "start": 1195.21,
+            "duration": 2.369,
+            "time": "00:19:55"
+        },
+        {
+            "text": "and watermarking for your neural voice",
+            "start": 1197.579,
+            "duration": 2.736,
+            "time": "00:19:57"
+        },
+        {
+            "text": "that's going to be",
+            "start": 1200.315,
+            "duration": 1.051,
+            "time": "00:20:00"
+        },
+        {
+            "text": "available to all of you",
+            "start": 1201.366,
+            "duration": 1.118,
+            "time": "00:20:01"
+        },
+        {
+            "text": "as you build your applications.",
+            "start": 1202.484,
+            "duration": 1.518,
+            "time": "00:20:02"
+        },
+        {
+            "text": "And at deployment time,",
+            "start": 1204.002,
+            "duration": 1.719,
+            "time": "00:20:04"
+        },
+        {
+            "text": "that\u2019s perhaps one of the most critical",
+            "start": 1205.721,
+            "duration": 1.768,
+            "time": "00:20:05"
+        },
+        {
+            "text": "things, is we have taken",
+            "start": 1207.489,
+            "duration": 1.552,
+            "time": "00:20:07"
+        },
+        {
+            "text": "all of the safety work",
+            "start": 1209.041,
+            "duration": 1.201,
+            "time": "00:20:09"
+        },
+        {
+            "text": "we did, for example, for the launch of Bing Chat",
+            "start": 1210.242,
+            "duration": 3.22,
+            "time": "00:20:10"
+        },
+        {
+            "text": "and really made it available",
+            "start": 1213.462,
+            "duration": 1.351,
+            "time": "00:20:13"
+        },
+        {
+            "text": "as just a set of features",
+            "start": 1214.813,
+            "duration": 1.351,
+            "time": "00:20:14"
+        },
+        {
+            "text": "for any developer to use, right?",
+            "start": 1216.164,
+            "duration": 2.269,
+            "time": "00:20:16"
+        },
+        {
+            "text": "You can take an OSS model",
+            "start": 1218.433,
+            "duration": 1.802,
+            "time": "00:20:18"
+        },
+        {
+            "text": "and use the AI Safety Service",
+            "start": 1220.235,
+            "duration": 2.703,
+            "time": "00:20:20"
+        },
+        {
+            "text": "to really make it, at the deployment time, safe.",
+            "start": 1222.938,
+            "duration": 3.637,
+            "time": "00:20:22"
+        },
+        {
+            "text": "And of course,",
+            "start": 1226.575,
+            "duration": 0.984,
+            "time": "00:20:26"
+        },
+        {
+            "text": "then you can even monitor the model",
+            "start": 1227.559,
+            "duration": 1.535,
+            "time": "00:20:27"
+        },
+        {
+            "text": "for model drift.",
+            "start": 1229.094,
+            "duration": 1.618,
+            "time": "00:20:29"
+        },
+        {
+            "text": "And that way then you can make sure",
+            "start": 1230.712,
+            "duration": 1.519,
+            "time": "00:20:30"
+        },
+        {
+            "text": "that it's not just the one time,",
+            "start": 1232.231,
+            "duration": 1.334,
+            "time": "00:20:32"
+        },
+        {
+            "text": "but you are continuously looking to make sure",
+            "start": 1233.565,
+            "duration": 2.72,
+            "time": "00:20:33"
+        },
+        {
+            "text": "that you have safe deployment.",
+            "start": 1236.285,
+            "duration": 1.384,
+            "time": "00:20:36"
+        },
+        {
+            "text": "So we're very, very excited about AI Studio",
+            "start": 1237.669,
+            "duration": 2.736,
+            "time": "00:20:37"
+        },
+        {
+            "text": "helping every developer out here",
+            "start": 1240.405,
+            "duration": 1.619,
+            "time": "00:20:40"
+        },
+        {
+            "text": "to be able to build AI applications,",
+            "start": 1242.024,
+            "duration": 2.302,
+            "time": "00:20:42"
+        },
+        {
+            "text": "but build them with safety first.",
+            "start": 1244.326,
+            "duration": 2.269,
+            "time": "00:20:44"
+        },
+        {
+            "text": "Let's roll the video.",
+            "start": 1246.595,
+            "duration": 2.069,
+            "time": "00:20:46"
+        },
+        {
+            "text": "Introducing Azure AI Studio, a full life cycle tool",
+            "start": 1248.664,
+            "duration": 4.02,
+            "time": "00:20:48"
+        },
+        {
+            "text": "to build, customize, train, evaluate,",
+            "start": 1252.684,
+            "duration": 3.137,
+            "time": "00:20:52"
+        },
+        {
+            "text": "and deploy",
+            "start": 1255.821,
+            "duration": 0.934,
+            "time": "00:20:55"
+        },
+        {
+            "text": "the latest next-generation models responsibly.",
+            "start": 1256.755,
+            "duration": 3.22,
+            "time": "00:20:56"
+        },
+        {
+            "text": "With just a few clicks,",
+            "start": 1259.975,
+            "duration": 1.435,
+            "time": "00:20:59"
+        },
+        {
+            "text": "developers can ground AI models",
+            "start": 1261.41,
+            "duration": 2.068,
+            "time": "00:21:01"
+        },
+        {
+            "text": "with their structured",
+            "start": 1263.478,
+            "duration": 0.835,
+            "time": "00:21:03"
+        },
+        {
+            "text": "and unstructured data",
+            "start": 1264.313,
+            "duration": 1.318,
+            "time": "00:21:04"
+        },
+        {
+            "text": "to quickly and easily build customized, cutting edge,",
+            "start": 1265.631,
+            "duration": 3.103,
+            "time": "00:21:05"
+        },
+        {
+            "text": "conversational experiences for their customers.",
+            "start": 1268.734,
+            "duration": 3.503,
+            "time": "00:21:08"
+        },
+        {
+            "text": "Developers can take advantage",
+            "start": 1272.237,
+            "duration": 1.468,
+            "time": "00:21:12"
+        },
+        {
+            "text": "of a new model catalog that works",
+            "start": 1273.705,
+            "duration": 1.869,
+            "time": "00:21:13"
+        },
+        {
+            "text": "with the popular models organizations use,",
+            "start": 1275.574,
+            "duration": 2.269,
+            "time": "00:21:15"
+        },
+        {
+            "text": "including those from Azure OpenAI Service,",
+            "start": 1277.843,
+            "duration": 2.486,
+            "time": "00:21:17"
+        },
+        {
+            "text": "Hugging Face, and many other open source models.",
+            "start": 1280.329,
+            "duration": 3.82,
+            "time": "00:21:20"
+        },
+        {
+            "text": "With prompt flow,",
+            "start": 1284.149,
+            "duration": 1.235,
+            "time": "00:21:24"
+        },
+        {
+            "text": "developers can combine",
+            "start": 1285.384,
+            "duration": 1.351,
+            "time": "00:21:25"
+        },
+        {
+            "text": "relevant data from your organization",
+            "start": 1286.735,
+            "duration": 2.152,
+            "time": "00:21:26"
+        },
+        {
+            "text": "and create a detailed prompt to get better results.",
+            "start": 1288.887,
+            "duration": 3.12,
+            "time": "00:21:28"
+        },
+        {
+            "text": "Prompt flow works",
+            "start": 1292.007,
+            "duration": 0.901,
+            "time": "00:21:32"
+        },
+        {
+            "text": "with foundation,",
+            "start": 1292.908,
+            "duration": 1.051,
+            "time": "00:21:32"
+        },
+        {
+            "text": "internally developed or open source models,",
+            "start": 1293.959,
+            "duration": 2.786,
+            "time": "00:21:33"
+        },
+        {
+            "text": "and uses popular open source tools,",
+            "start": 1296.745,
+            "duration": 2.219,
+            "time": "00:21:36"
+        },
+        {
+            "text": "LangChain, and Semantic Kernel.",
+            "start": 1298.964,
+            "duration": 3.003,
+            "time": "00:21:38"
+        },
+        {
+            "text": "And because the AI systems",
+            "start": 1301.967,
+            "duration": 1.568,
+            "time": "00:21:41"
+        },
+        {
+            "text": "we build are designed to support our AI principles,",
+            "start": 1303.535,
+            "duration": 3.086,
+            "time": "00:21:43"
+        },
+        {
+            "text": "with Azure",
+            "start": 1306.621,
+            "duration": 0.634,
+            "time": "00:21:46"
+        },
+        {
+            "text": "AI Content Safety, we are making it easier for you",
+            "start": 1307.255,
+            "duration": 3.17,
+            "time": "00:21:47"
+        },
+        {
+            "text": "to test and evaluate your AI deployments for safety.",
+            "start": 1310.425,
+            "duration": 3.988,
+            "time": "00:21:50"
+        },
+        {
+            "text": "This is Azure AI Studio,",
+            "start": 1314.413,
+            "duration": 2.502,
+            "time": "00:21:54"
+        },
+        {
+            "text": "the trusted tools",
+            "start": 1316.915,
+            "duration": 1.018,
+            "time": "00:21:56"
+        },
+        {
+            "text": "you need to build the next generation",
+            "start": 1317.933,
+            "duration": 2.135,
+            "time": "00:21:57"
+        },
+        {
+            "text": "of AI applications.",
+            "start": 1320.068,
+            "duration": 2.503,
+            "time": "00:22:00"
+        },
+        {
+            "text": "Cool.",
+            "start": 1323.171,
+            "duration": 1.435,
+            "time": "00:22:03"
+        },
+        {
+            "text": "And of course,",
+            "start": 1328.96,
+            "duration": 1.352,
+            "time": "00:22:08"
+        },
+        {
+            "text": "all AI applications start with data.",
+            "start": 1330.312,
+            "duration": 4.104,
+            "time": "00:22:10"
+        },
+        {
+            "text": "And we are really thrilled",
+            "start": 1334.416,
+            "duration": 4.021,
+            "time": "00:22:14"
+        },
+        {
+            "text": "to be announcing Microsoft Fabric.",
+            "start": 1338.437,
+            "duration": 2.602,
+            "time": "00:22:18"
+        },
+        {
+            "text": "This is a product that we've been",
+            "start": 1341.039,
+            "duration": 2.736,
+            "time": "00:22:21"
+        },
+        {
+            "text": "working very, very hard on over multiple years,",
+            "start": 1343.775,
+            "duration": 3.153,
+            "time": "00:22:23"
+        },
+        {
+            "text": "and it's finally coming together.",
+            "start": 1346.928,
+            "duration": 2.002,
+            "time": "00:22:26"
+        },
+        {
+            "text": "It\u2019s perhaps the biggest launch of a data product",
+            "start": 1348.93,
+            "duration": 3.938,
+            "time": "00:22:28"
+        },
+        {
+            "text": "from Microsoft since the launch of SQL Server.",
+            "start": 1352.868,
+            "duration": 3.57,
+            "time": "00:22:32"
+        },
+        {
+            "text": "You know, it",
+            "start": 1356.438,
+            "duration": 0.534,
+            "time": "00:22:36"
+        },
+        {
+            "text": "really brings together compute and storage,",
+            "start": 1356.972,
+            "duration": 2.202,
+            "time": "00:22:36"
+        },
+        {
+            "text": "so it unifies compute and storage.",
+            "start": 1359.174,
+            "duration": 2.236,
+            "time": "00:22:39"
+        },
+        {
+            "text": "It unifies",
+            "start": 1361.41,
+            "duration": 1.084,
+            "time": "00:22:41"
+        },
+        {
+            "text": "all of the full analytics",
+            "start": 1362.494,
+            "duration": 1.885,
+            "time": "00:22:42"
+        },
+        {
+            "text": "stack product experiences.",
+            "start": 1364.379,
+            "duration": 2.252,
+            "time": "00:22:44"
+        },
+        {
+            "text": "It brings together governance,",
+            "start": 1366.631,
+            "duration": 1.802,
+            "time": "00:22:46"
+        },
+        {
+            "text": "so it unifies governance with analytics.",
+            "start": 1368.433,
+            "duration": 4.088,
+            "time": "00:22:48"
+        },
+        {
+            "text": "And, most interesting, it unifies",
+            "start": 1372.521,
+            "duration": 2.168,
+            "time": "00:22:52"
+        },
+        {
+            "text": "the business model,",
+            "start": 1374.689,
+            "duration": 1.669,
+            "time": "00:22:54"
+        },
+        {
+            "text": "across all the different types",
+            "start": 1376.358,
+            "duration": 2.335,
+            "time": "00:22:56"
+        },
+        {
+            "text": "of analytics workloads,",
+            "start": 1378.693,
+            "duration": 1.502,
+            "time": "00:22:58"
+        },
+        {
+            "text": "whether they're SQL, machine learning,",
+            "start": 1380.195,
+            "duration": 1.768,
+            "time": "00:23:00"
+        },
+        {
+            "text": "whatever job you want,",
+            "start": 1381.963,
+            "duration": 1.385,
+            "time": "00:23:01"
+        },
+        {
+            "text": "you can use the same compute",
+            "start": 1383.348,
+            "duration": 3.087,
+            "time": "00:23:03"
+        },
+        {
+            "text": "infrastructure.",
+            "start": 1386.435,
+            "duration": 2.185,
+            "time": "00:23:06"
+        },
+        {
+            "text": "And this unification at the end of the day",
+            "start": 1388.62,
+            "duration": 3.07,
+            "time": "00:23:08"
+        },
+        {
+            "text": "is what I think will fuel",
+            "start": 1391.69,
+            "duration": 2.069,
+            "time": "00:23:11"
+        },
+        {
+            "text": "the next generation of AI applications.",
+            "start": 1393.759,
+            "duration": 2.435,
+            "time": "00:23:13"
+        },
+        {
+            "text": "Let's roll the video.",
+            "start": 1396.194,
+            "duration": 1.502,
+            "time": "00:23:16"
+        },
+        {
+            "text": "Introducing Microsoft Fabric,",
+            "start": 1397.696,
+            "duration": 1.902,
+            "time": "00:23:17"
+        },
+        {
+            "text": "a unified data analytics platform,",
+            "start": 1399.598,
+            "duration": 2.085,
+            "time": "00:23:19"
+        },
+        {
+            "text": "one product,",
+            "start": 1401.683,
+            "duration": 0.851,
+            "time": "00:23:21"
+        },
+        {
+            "text": "one experience,",
+            "start": 1402.534,
+            "duration": 1.151,
+            "time": "00:23:22"
+        },
+        {
+            "text": "one architecture,",
+            "start": 1403.685,
+            "duration": 1.101,
+            "time": "00:23:23"
+        },
+        {
+            "text": "one business model.",
+            "start": 1404.786,
+            "duration": 1.619,
+            "time": "00:23:24"
+        },
+        {
+            "text": "Unified data is stored in OneLake,",
+            "start": 1406.405,
+            "duration": 2.652,
+            "time": "00:23:26"
+        },
+        {
+            "text": "a SaaS data lake for the entire organization.",
+            "start": 1409.057,
+            "duration": 3.187,
+            "time": "00:23:29"
+        },
+        {
+            "text": "Data is integrated and stored in an open format,",
+            "start": 1412.244,
+            "duration": 3.153,
+            "time": "00:23:32"
+        },
+        {
+            "text": "allowing one copy to be used to train",
+            "start": 1415.397,
+            "duration": 2.335,
+            "time": "00:23:35"
+        },
+        {
+            "text": "machine learning models,",
+            "start": 1417.732,
+            "duration": 1.085,
+            "time": "00:23:37"
+        },
+        {
+            "text": "visualize data,",
+            "start": 1418.817,
+            "duration": 1.218,
+            "time": "00:23:38"
+        },
+        {
+            "text": "and run SQL queries on the lake",
+            "start": 1420.035,
+            "duration": 2.052,
+            "time": "00:23:40"
+        },
+        {
+            "text": "and data warehouse.",
+            "start": 1422.087,
+            "duration": 2.069,
+            "time": "00:23:42"
+        },
+        {
+            "text": "A unified experience brings together all the tools",
+            "start": 1424.156,
+            "duration": 2.969,
+            "time": "00:23:44"
+        },
+        {
+            "text": "data professionals need -",
+            "start": 1427.125,
+            "duration": 1.618,
+            "time": "00:23:47"
+        },
+        {
+            "text": "pipelines for orchestrating data movement,",
+            "start": 1428.743,
+            "duration": 2.286,
+            "time": "00:23:48"
+        },
+        {
+            "text": "experiments for training machine learning models,",
+            "start": 1431.029,
+            "duration": 2.669,
+            "time": "00:23:51"
+        },
+        {
+            "text": "semantic models for defining key metrics,",
+            "start": 1433.698,
+            "duration": 2.236,
+            "time": "00:23:53"
+        },
+        {
+            "text": "and much more.",
+            "start": 1435.934,
+            "duration": 2.202,
+            "time": "00:23:55"
+        },
+        {
+            "text": "And for business users, Fabric brings together",
+            "start": 1438.136,
+            "duration": 2.569,
+            "time": "00:23:58"
+        },
+        {
+            "text": "data for collaborating",
+            "start": 1440.705,
+            "duration": 1.352,
+            "time": "00:24:00"
+        },
+        {
+            "text": "and doing ad hoc analysis in Microsoft 365.",
+            "start": 1442.057,
+            "duration": 4.171,
+            "time": "00:24:02"
+        },
+        {
+            "text": "Unified governance,",
+            "start": 1446.228,
+            "duration": 1.401,
+            "time": "00:24:06"
+        },
+        {
+            "text": "security,",
+            "start": 1447.629,
+            "duration": 0.734,
+            "time": "00:24:07"
+        },
+        {
+            "text": "and compliance is built in for all your data.",
+            "start": 1448.363,
+            "duration": 3.837,
+            "time": "00:24:08"
+        },
+        {
+            "text": "And with Copilot for Microsoft Fabric,",
+            "start": 1452.2,
+            "duration": 2.236,
+            "time": "00:24:12"
+        },
+        {
+            "text": "AI helps everyone be more productive,",
+            "start": 1454.436,
+            "duration": 2.619,
+            "time": "00:24:14"
+        },
+        {
+            "text": "whether it's writing SQL statements,",
+            "start": 1457.055,
+            "duration": 2.352,
+            "time": "00:24:17"
+        },
+        {
+            "text": "building reports,",
+            "start": 1459.407,
+            "duration": 1.502,
+            "time": "00:24:19"
+        },
+        {
+            "text": "or setting up automations based on triggers.",
+            "start": 1460.909,
+            "duration": 4.254,
+            "time": "00:24:20"
+        },
+        {
+            "text": "All your data,",
+            "start": 1465.163,
+            "duration": 1.268,
+            "time": "00:24:25"
+        },
+        {
+            "text": "all your teams,",
+            "start": 1466.431,
+            "duration": 1.385,
+            "time": "00:24:26"
+        },
+        {
+            "text": "all in one place.",
+            "start": 1467.816,
+            "duration": 1.668,
+            "time": "00:24:27"
+        },
+        {
+            "text": "This is Microsoft Fabric.",
+            "start": 1469.484,
+            "duration": 2.436,
+            "time": "00:24:29"
+        },
+        {
+            "text": "You know what the AI",
+            "start": 1478.994,
+            "duration": 2.002,
+            "time": "00:24:38"
+        },
+        {
+            "text": "supercomputer did for the infrastructure layer?",
+            "start": 1480.996,
+            "duration": 4.321,
+            "time": "00:24:40"
+        },
+        {
+            "text": "Microsoft Fabric will do to the data",
+            "start": 1485.317,
+            "duration": 2.586,
+            "time": "00:24:45"
+        },
+        {
+            "text": "layer for this next generation",
+            "start": 1487.903,
+            "duration": 1.952,
+            "time": "00:24:47"
+        },
+        {
+            "text": "of AI applications.",
+            "start": 1489.855,
+            "duration": 1.217,
+            "time": "00:24:49"
+        },
+        {
+            "text": "Very, very exciting.",
+            "start": 1491.072,
+            "duration": 2.353,
+            "time": "00:24:51"
+        },
+        {
+            "text": "These are just the five of the 50,",
+            "start": 1493.425,
+            "duration": 2.786,
+            "time": "00:24:53"
+        },
+        {
+            "text": "so we have 45 more to discover",
+            "start": 1496.211,
+            "duration": 2.119,
+            "time": "00:24:56"
+        },
+        {
+            "text": "throughout the conference.",
+            "start": 1498.33,
+            "duration": 1.268,
+            "time": "00:24:58"
+        },
+        {
+            "text": "We're, again,",
+            "start": 1499.598,
+            "duration": 1.318,
+            "time": "00:24:59"
+        },
+        {
+            "text": "really on a fast pace to build things",
+            "start": 1500.916,
+            "duration": 2.619,
+            "time": "00:25:00"
+        },
+        {
+            "text": "that help us",
+            "start": 1503.535,
+            "duration": 0.917,
+            "time": "00:25:03"
+        },
+        {
+            "text": "build this next generation of applications,",
+            "start": 1504.452,
+            "duration": 2.653,
+            "time": "00:25:04"
+        },
+        {
+            "text": "but build them with safety first.",
+            "start": 1507.105,
+            "duration": 3.387,
+            "time": "00:25:07"
+        },
+        {
+            "text": "Now,",
+            "start": 1510.492,
+            "duration": 1.468,
+            "time": "00:25:10"
+        },
+        {
+            "text": "one of the things",
+            "start": 1511.96,
+            "duration": 1.385,
+            "time": "00:25:11"
+        },
+        {
+            "text": "that I think we should ask ourselves",
+            "start": 1513.345,
+            "duration": 1.518,
+            "time": "00:25:13"
+        },
+        {
+            "text": "as developers is why do we build?",
+            "start": 1514.863,
+            "duration": 3.937,
+            "time": "00:25:14"
+        },
+        {
+            "text": "Why do we build technology?",
+            "start": 1518.8,
+            "duration": 3.871,
+            "time": "00:25:18"
+        },
+        {
+            "text": "You know, this relationship",
+            "start": 1522.671,
+            "duration": 2.185,
+            "time": "00:25:22"
+        },
+        {
+            "text": "between economic progress",
+            "start": 1524.856,
+            "duration": 3.153,
+            "time": "00:25:24"
+        },
+        {
+            "text": "and economic",
+            "start": 1528.009,
+            "duration": 0.601,
+            "time": "00:25:28"
+        },
+        {
+            "text": "growth and technology",
+            "start": 1528.61,
+            "duration": 1.735,
+            "time": "00:25:28"
+        },
+        {
+            "text": "has been there for a long time.",
+            "start": 1530.345,
+            "duration": 2.219,
+            "time": "00:25:30"
+        },
+        {
+            "text": "In fact, in this graph, when you see it,",
+            "start": 1532.564,
+            "duration": 2.619,
+            "time": "00:25:32"
+        },
+        {
+            "text": "it's pretty",
+            "start": 1535.183,
+            "duration": 0.467,
+            "time": "00:25:35"
+        },
+        {
+            "text": "stunning that for most of human history,",
+            "start": 1535.65,
+            "duration": 4.054,
+            "time": "00:25:35"
+        },
+        {
+            "text": "we didn't have much economic growth,",
+            "start": 1539.704,
+            "duration": 2.67,
+            "time": "00:25:39"
+        },
+        {
+            "text": "nor did we have much technology.",
+            "start": 1542.374,
+            "duration": 2.669,
+            "time": "00:25:42"
+        },
+        {
+            "text": "And then something happened",
+            "start": 1545.043,
+            "duration": 1.318,
+            "time": "00:25:45"
+        },
+        {
+            "text": "250 years ago, right?",
+            "start": 1546.361,
+            "duration": 3.253,
+            "time": "00:25:46"
+        },
+        {
+            "text": "Which was long in building,",
+            "start": 1549.614,
+            "duration": 1.518,
+            "time": "00:25:49"
+        },
+        {
+            "text": "by the way, from perhaps the Enlightenment",
+            "start": 1551.132,
+            "duration": 2.369,
+            "time": "00:25:51"
+        },
+        {
+            "text": "to the Scientific Revolution to the",
+            "start": 1553.501,
+            "duration": 1.552,
+            "time": "00:25:53"
+        },
+        {
+            "text": "Industrial Revolution was close to 400 years.",
+            "start": 1555.053,
+            "duration": 3.287,
+            "time": "00:25:55"
+        },
+        {
+            "text": "But then there was real progress.",
+            "start": 1558.34,
+            "duration": 3.119,
+            "time": "00:25:58"
+        },
+        {
+            "text": "You see that slope going upwards.",
+            "start": 1561.459,
+            "duration": 3.838,
+            "time": "00:26:01"
+        },
+        {
+            "text": "And then, of course, over the last",
+            "start": 1565.297,
+            "duration": 1.117,
+            "time": "00:26:05"
+        },
+        {
+            "text": "70 years, information",
+            "start": 1566.414,
+            "duration": 1.068,
+            "time": "00:26:06"
+        },
+        {
+            "text": "technology has played a role across",
+            "start": 1567.482,
+            "duration": 1.602,
+            "time": "00:26:07"
+        },
+        {
+            "text": "all of those sort of seminal moments",
+            "start": 1569.084,
+            "duration": 2.986,
+            "time": "00:26:09"
+        },
+        {
+            "text": "on the march towards that dream machine.",
+            "start": 1572.07,
+            "duration": 2.102,
+            "time": "00:26:12"
+        },
+        {
+            "text": "And of course, we now enter the age of AI",
+            "start": 1574.172,
+            "duration": 2.169,
+            "time": "00:26:14"
+        },
+        {
+            "text": "and we get to define",
+            "start": 1576.341,
+            "duration": 1.852,
+            "time": "00:26:16"
+        },
+        {
+            "text": "what that slope looks like",
+            "start": 1578.193,
+            "duration": 1.501,
+            "time": "00:26:18"
+        },
+        {
+            "text": "going forward for economic growth.",
+            "start": 1579.694,
+            "duration": 2.253,
+            "time": "00:26:19"
+        },
+        {
+            "text": "But it's not even just economic growth",
+            "start": 1581.947,
+            "duration": 1.735,
+            "time": "00:26:21"
+        },
+        {
+            "text": "on its own, right?",
+            "start": 1583.682,
+            "duration": 0.901,
+            "time": "00:26:23"
+        },
+        {
+            "text": "We don't build",
+            "start": 1584.583,
+            "duration": 0.867,
+            "time": "00:26:24"
+        },
+        {
+            "text": "just because we want economic growth.",
+            "start": 1585.45,
+            "duration": 1.785,
+            "time": "00:26:25"
+        },
+        {
+            "text": "We want economic growth",
+            "start": 1587.235,
+            "duration": 1.585,
+            "time": "00:26:27"
+        },
+        {
+            "text": "so that we can have human",
+            "start": 1588.82,
+            "duration": 1.585,
+            "time": "00:26:28"
+        },
+        {
+            "text": "development index growth.",
+            "start": 1590.405,
+            "duration": 2.286,
+            "time": "00:26:30"
+        },
+        {
+            "text": "We want the lifespans to go up.",
+            "start": 1592.691,
+            "duration": 2.636,
+            "time": "00:26:32"
+        },
+        {
+            "text": "We want education and prosperity",
+            "start": 1595.327,
+            "duration": 2.068,
+            "time": "00:26:35"
+        },
+        {
+            "text": "and standard of living to go up everywhere.",
+            "start": 1597.395,
+            "duration": 2.67,
+            "time": "00:26:37"
+        },
+        {
+            "text": "That's why we build, that's why we innovate.",
+            "start": 1600.065,
+            "duration": 2.936,
+            "time": "00:26:40"
+        },
+        {
+            "text": "That's why technology exists.",
+            "start": 1603.001,
+            "duration": 2.369,
+            "time": "00:26:43"
+        },
+        {
+            "text": "It's not for technology\u2019s sake,",
+            "start": 1605.37,
+            "duration": 1.535,
+            "time": "00:26:45"
+        },
+        {
+            "text": "but it is for that broad impact.",
+            "start": 1606.905,
+            "duration": 2.936,
+            "time": "00:26:46"
+        },
+        {
+            "text": "And to me,",
+            "start": 1609.841,
+            "duration": 1.769,
+            "time": "00:26:49"
+        },
+        {
+            "text": "this all came together -",
+            "start": 1611.61,
+            "duration": 4.721,
+            "time": "00:26:51"
+        },
+        {
+            "text": "you know,",
+            "start": 1616.331,
+            "duration": 0.3,
+            "time": "00:26:56"
+        },
+        {
+            "text": "in January when I was visiting India,",
+            "start": 1616.631,
+            "duration": 3.303,
+            "time": "00:26:56"
+        },
+        {
+            "text": "I had a chance to see this demo",
+            "start": 1619.934,
+            "duration": 2.536,
+            "time": "00:26:59"
+        },
+        {
+            "text": "and it sort of had a very profound impact on me",
+            "start": 1622.47,
+            "duration": 3.337,
+            "time": "00:27:02"
+        },
+        {
+            "text": "because at some level",
+            "start": 1625.807,
+            "duration": 0.968,
+            "time": "00:27:05"
+        },
+        {
+            "text": "it motivated me to go into this next wave",
+            "start": 1626.775,
+            "duration": 3.737,
+            "time": "00:27:06"
+        },
+        {
+            "text": "with that much more rigorous ensure",
+            "start": 1630.512,
+            "duration": 3.553,
+            "time": "00:27:10"
+        },
+        {
+            "text": "that this time around, this technology",
+            "start": 1634.065,
+            "duration": 4.004,
+            "time": "00:27:14"
+        },
+        {
+            "text": "reaches everybody in the world.",
+            "start": 1638.069,
+            "duration": 3.671,
+            "time": "00:27:18"
+        },
+        {
+            "text": "There are two things that stood out for me,",
+            "start": 1641.74,
+            "duration": 2.669,
+            "time": "00:27:21"
+        },
+        {
+            "text": "right, that things that we build",
+            "start": 1644.409,
+            "duration": 3.237,
+            "time": "00:27:24"
+        },
+        {
+            "text": "can in fact make a difference",
+            "start": 1647.646,
+            "duration": 1.868,
+            "time": "00:27:27"
+        },
+        {
+            "text": "to 8 billion people,",
+            "start": 1649.514,
+            "duration": 1.885,
+            "time": "00:27:29"
+        },
+        {
+            "text": "not some small sort of group of people.",
+            "start": 1651.399,
+            "duration": 5.606,
+            "time": "00:27:31"
+        },
+        {
+            "text": "And to be able to do that",
+            "start": 1657.005,
+            "duration": 4.137,
+            "time": "00:27:37"
+        },
+        {
+            "text": "by diffusing",
+            "start": 1661.142,
+            "duration": 2.52,
+            "time": "00:27:41"
+        },
+        {
+            "text": "or diffusion that takes days and weeks,",
+            "start": 1663.662,
+            "duration": 3.853,
+            "time": "00:27:43"
+        },
+        {
+            "text": "not years and centuries,",
+            "start": 1667.515,
+            "duration": 3.954,
+            "time": "00:27:47"
+        },
+        {
+            "text": "because we want that equitable growth.",
+            "start": 1671.469,
+            "duration": 3.304,
+            "time": "00:27:51"
+        },
+        {
+            "text": "We want trust in technology.",
+            "start": 1674.773,
+            "duration": 2.702,
+            "time": "00:27:54"
+        },
+        {
+            "text": "We want to ensure that we protect",
+            "start": 1677.475,
+            "duration": 2.82,
+            "time": "00:27:57"
+        },
+        {
+            "text": "those fundamental rights that we care about",
+            "start": 1680.295,
+            "duration": 3.203,
+            "time": "00:28:00"
+        },
+        {
+            "text": "and that we do this",
+            "start": 1683.498,
+            "duration": 2.069,
+            "time": "00:28:03"
+        },
+        {
+            "text": "in such a way that we manage",
+            "start": 1685.567,
+            "duration": 2.219,
+            "time": "00:28:05"
+        },
+        {
+            "text": "our energy transition",
+            "start": 1687.786,
+            "duration": 1.384,
+            "time": "00:28:07"
+        },
+        {
+            "text": "given the finite resource we have in our planet.",
+            "start": 1689.17,
+            "duration": 3.32,
+            "time": "00:28:09"
+        },
+        {
+            "text": "That's, at the end of the day,",
+            "start": 1692.49,
+            "duration": 1.202,
+            "time": "00:28:12"
+        },
+        {
+            "text": "what grounds us in our mission",
+            "start": 1693.692,
+            "duration": 1.317,
+            "time": "00:28:13"
+        },
+        {
+            "text": "to empower every person",
+            "start": 1695.009,
+            "duration": 1.202,
+            "time": "00:28:15"
+        },
+        {
+            "text": "and every organization",
+            "start": 1696.211,
+            "duration": 1.468,
+            "time": "00:28:16"
+        },
+        {
+            "text": "on the planet to achieve more.",
+            "start": 1697.679,
+            "duration": 1.785,
+            "time": "00:28:17"
+        },
+        {
+            "text": "And so I want to leave you with this video",
+            "start": 1699.464,
+            "duration": 2.636,
+            "time": "00:28:19"
+        },
+        {
+            "text": "of what you as developers are going to do",
+            "start": 1702.1,
+            "duration": 3.086,
+            "time": "00:28:22"
+        },
+        {
+            "text": "in the days and weeks",
+            "start": 1705.186,
+            "duration": 1.435,
+            "time": "00:28:25"
+        },
+        {
+            "text": "and months and years",
+            "start": 1706.621,
+            "duration": 1.018,
+            "time": "00:28:26"
+        },
+        {
+            "text": "to come",
+            "start": 1707.639,
+            "duration": 1.084,
+            "time": "00:28:27"
+        },
+        {
+            "text": "is going to have the most profound impact",
+            "start": 1708.723,
+            "duration": 2.703,
+            "time": "00:28:28"
+        },
+        {
+            "text": "of any technology",
+            "start": 1711.426,
+            "duration": 1.835,
+            "time": "00:28:31"
+        },
+        {
+            "text": "to 8 billion people all around the planet.",
+            "start": 1713.261,
+            "duration": 2.519,
+            "time": "00:28:33"
+        },
+        {
+            "text": "Thank you very much and have a fantastic Build.",
+            "start": 1715.78,
+            "duration": 4.321,
+            "time": "00:28:35"
+        },
+        {
+            "text": "I\u2019m a farmer.",
+            "start": 1721.119,
+            "duration": 1.868,
+            "time": "00:28:41"
+        },
+        {
+            "text": "In our village, we have two acres of land where we grow crops.",
+            "start": 1722.987,
+            "duration": 4.572,
+            "time": "00:28:42"
+        },
+        {
+            "text": "I grow rabi and kharif crops, which include wheat,",
+            "start": 1727.559,
+            "duration": 3.537,
+            "time": "00:28:47"
+        },
+        {
+            "text": "jowar, millet, sesame, and mustard.",
+            "start": 1731.096,
+            "duration": 3.536,
+            "time": "00:28:51"
+        },
+        {
+            "text": "But here in Mewat, many villages don\u2019t have access",
+            "start": 1734.632,
+            "duration": 2.903,
+            "time": "00:28:54"
+        },
+        {
+            "text": " to newspapers, so our access to information is limited.",
+            "start": 1737.535,
+            "duration": 2.937,
+            "time": "00:28:57"
+        },
+        {
+            "text": "There are many government schemes available to us,",
+            "start": 1740.472,
+            "duration": 5.071,
+            "time": "00:29:00"
+        },
+        {
+            "text": "but we often don't know about them.",
+            "start": 1745.543,
+            "duration": 2.169,
+            "time": "00:29:05"
+        },
+        {
+            "text": "These are all communities living in media-dark areas,",
+            "start": 1748.813,
+            "duration": 3.037,
+            "time": "00:29:08"
+        },
+        {
+            "text": "which means that penetration of traditional media",
+            "start": 1751.85,
+            "duration": 3.27,
+            "time": "00:29:11"
+        },
+        {
+            "text": " like television and radio is very sparse.",
+            "start": 1755.12,
+            "duration": 1.935,
+            "time": "00:29:15"
+        },
+        {
+            "text": "There's also literacy challenges,",
+            "start": 1757.055,
+            "duration": 1.868,
+            "time": "00:29:17"
+        },
+        {
+            "text": "so things like newspapers have a very low access in these areas.",
+            "start": 1758.923,
+            "duration": 3.604,
+            "time": "00:29:18"
+        },
+        {
+            "text": "In India, we have 22 constitutionally-recognized languages.",
+            "start": 1762.527,
+            "duration": 3.67,
+            "time": "00:29:22"
+        },
+        {
+            "text": "But apart from that, we have more than 100,",
+            "start": 1766.197,
+            "duration": 2.536,
+            "time": "00:29:26"
+        },
+        {
+            "text": " almost 120, languages.",
+            "start": 1768.733,
+            "duration": 2.002,
+            "time": "00:29:28"
+        },
+        {
+            "text": "Being able to provide justice",
+            "start": 1770.735,
+            "duration": 1.935,
+            "time": "00:29:30"
+        },
+        {
+            "text": "to each and every citizen in their own language,",
+            "start": 1772.67,
+            "duration": 2.303,
+            "time": "00:29:32"
+        },
+        {
+            "text": "it's a challenge, but it's also an opportunity.",
+            "start": 1774.973,
+            "duration": 2.469,
+            "time": "00:29:34"
+        },
+        {
+            "text": "Jugalbandi is a chat bot that we built to solve two problems.",
+            "start": 1777.442,
+            "duration": 4.604,
+            "time": "00:29:37"
+        },
+        {
+            "text": "One is this linguistic divide and the technological divide.",
+            "start": 1782.046,
+            "duration": 3.471,
+            "time": "00:29:42"
+        },
+        {
+            "text": "We collected millions of parallel sentences",
+            "start": 1785.517,
+            "duration": 3.103,
+            "time": "00:29:45"
+        },
+        {
+            "text": " for machine translation.",
+            "start": 1788.62,
+            "duration": 1.401,
+            "time": "00:29:48"
+        },
+        {
+            "text": "We collected thousands of hours of data",
+            "start": 1790.021,
+            "duration": 1.769,
+            "time": "00:29:50"
+        },
+        {
+            "text": "for speech recognition,",
+            "start": 1791.79,
+            "duration": 1.534,
+            "time": "00:29:51"
+        },
+        {
+            "text": "and then we built state-of-the-art models on top of it,",
+            "start": 1793.324,
+            "duration": 2.803,
+            "time": "00:29:53"
+        },
+        {
+            "text": "using Bhashini speech recognition models and Azure OpenAI.",
+            "start": 1796.127,
+            "duration": 4.371,
+            "time": "00:29:56"
+        },
+        {
+            "text": "So these capabilities allow us to understand language,",
+            "start": 1800.498,
+            "duration": 4.438,
+            "time": "00:30:00"
+        },
+        {
+            "text": "transcribe it, translate it,",
+            "start": 1804.936,
+            "duration": 1.902,
+            "time": "00:30:04"
+        },
+        {
+            "text": "and also synthesize it back in the form of speech.",
+            "start": 1806.838,
+            "duration": 3.37,
+            "time": "00:30:06"
+        },
+        {
+            "text": "Uncle, this is Jugalbandi.",
+            "start": 1810.675,
+            "duration": 3.237,
+            "time": "00:30:10"
+        },
+        {
+            "text": "We can write or ask about government schemes",
+            "start": 1813.912,
+            "duration": 2.702,
+            "time": "00:30:13"
+        },
+        {
+            "text": "that we want to know about",
+            "start": 1816.614,
+            "duration": 2.536,
+            "time": "00:30:16"
+        },
+        {
+            "text": "and it will give us information about it.",
+            "start": 1819.15,
+            "duration": 2.936,
+            "time": "00:30:19"
+        },
+        {
+            "text": "I am a farmer and I want to know about",
+            "start": 1822.086,
+            "duration": 2.837,
+            "time": "00:30:22"
+        },
+        {
+            "text": "the government scheme for farming.",
+            "start": 1824.923,
+            "duration": 2.502,
+            "time": "00:30:24"
+        },
+        {
+            "text": "My name is Jugalbandi.",
+            "start": 1827.425,
+            "duration": 1.635,
+            "time": "00:30:27"
+        },
+        {
+            "text": "I am an assistant that will help you to know about",
+            "start": 1829.06,
+            "duration": 4.104,
+            "time": "00:30:29"
+        },
+        {
+            "text": "your government scheme and apply for it.",
+            "start": 1833.164,
+            "duration": 4.605,
+            "time": "00:30:33"
+        },
+        {
+            "text": "The answer came both in text and audio,",
+            "start": 1837.769,
+            "duration": 5.906,
+            "time": "00:30:37"
+        },
+        {
+            "text": "with which documents and forms are required.",
+            "start": 1843.675,
+            "duration": 5.572,
+            "time": "00:30:43"
+        },
+        {
+            "text": "The Ministry of Electronics and IT in the country",
+            "start": 1849.247,
+            "duration": 2.636,
+            "time": "00:30:49"
+        },
+        {
+            "text": "has been working on this for the last five years now,",
+            "start": 1851.883,
+            "duration": 1.902,
+            "time": "00:30:51"
+        },
+        {
+            "text": "and when ChatGPT was launched,",
+            "start": 1853.785,
+            "duration": 2.602,
+            "time": "00:30:53"
+        },
+        {
+            "text": " that was really the catalyst for us",
+            "start": 1856.387,
+            "duration": 2.069,
+            "time": "00:30:56"
+        },
+        {
+            "text": "being able to bring these pieces together.",
+            "start": 1858.456,
+            "duration": 2.202,
+            "time": "00:30:58"
+        },
+        {
+            "text": "We've been able to categorize the diversity of India",
+            "start": 1860.658,
+            "duration": 3.437,
+            "time": "00:31:00"
+        },
+        {
+            "text": "as an innovation opportunity.",
+            "start": 1864.095,
+            "duration": 1.769,
+            "time": "00:31:04"
+        },
+        {
+            "text": "And if you're able to do that successfully,",
+            "start": 1865.864,
+            "duration": 1.668,
+            "time": "00:31:05"
+        },
+        {
+            "text": "you're able to do it for the world.",
+            "start": 1867.532,
+            "duration": 1.601,
+            "time": "00:31:07"
+        }
+    ]
+}

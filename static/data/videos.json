@@ -1,31 +1,31 @@
 [
     {
-      "video_id": "1",
-      "video_name": "Fabric Day 1",
-      "video_thumb_url": "https://picsum.photos/200/300",
-      "video_date": "2023-06-01",
-      "video_short_description": "This is a short description for Fabric Day 1."
+      "video_id": "FaV0tIaWWEg",
+      "video_name": "Full Keynote | Satya Nadella at Microsoft Build 2023",
+      "video_thumb_url": "/static/img/thumbs/1o_QDFq6gzE.png",
+      "video_date": "2023-05-24",
+      "video_short_description": "Opening Keynote by Satya Nadella at Microsoft Build 2023"
     },
     {
-      "video_id": "2",
-      "video_name": "Fabric Day 2",
-      "video_thumb_url": "https://picsum.photos/200/300",
-      "video_date": "2023-06-02",
-      "video_short_description": "This is a short description for Fabric Day 2."
+      "video_id": "1o_QDFq6gzE",
+      "video_name": "Microsoft Fabric Launch Digital Event (Day 1)",
+      "video_thumb_url": "/static/img/thumbs/1o_QDFq6gzE.png",
+      "video_date": "2023-05-24",
+      "video_short_description": "Learn more about the exciting news about the launch of Microsoft Fabric in this two-day digital event. From Power BI, to Synapse, and Data Factory, you will be able to learn what’s available to you in this new offering."
     },
     {
-      "video_id": "3",
-      "video_name": "Fabric Day 3",
-      "video_thumb_url": "https://picsum.photos/200/300",
-      "video_date": "2023-06-03",
-      "video_short_description": "This is a short description for Fabric Day 3."
+      "video_id": "_Y-XyCRE6ec",
+      "video_name": "Microsoft Fabric Launch Digital Event (Day 2)",
+      "video_thumb_url": "/static/img/thumbs/_Y-XyCRE6ec.png",
+      "video_date": "2023-05-25",
+      "video_short_description": "Learn more about the exciting news about the launch of Microsoft Fabric in this two-day digital event. From Power BI, to Synapse, and Data Factory, you will be able to learn what’s available to you in this new offering."
     },
     {
-      "video_id": "4",
-      "video_name": "Fabric Day 4",
-      "video_thumb_url": "https://picsum.photos/200/300",
-      "video_date": "2023-06-04",
-      "video_short_description": "This is a short description for Fabric Day 4."
+      "video_id": "UEklCAyO7O0",
+      "video_name": "Microsoft Fabric Synapse data warehouse Q&A | DIS240H",
+      "video_thumb_url": "/static/img/thumbs/UEklCAyO7O0.png",
+      "video_date": "2023-05-25",
+      "video_short_description": "Microsoft Fabric empowers citizen developers and engineers to analyze data and accelerate their reporting and insights at any scale. Connect with the Microsoft Fabric product group and ask any questions top of mind."
     }
   ]
   
