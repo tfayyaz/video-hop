@@ -1,0 +1,3 @@
+Flask==2.3.2
+pytailwindcss==0.1.4
+Flask-Assets==2.0

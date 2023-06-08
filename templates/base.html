@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Hopper</title>
+    <script src="https://unpkg.com/htmx.org@1.7.0"></script>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='dist/main.css') }}">
+  </head>
+  <body>
+    <header>
+      <h1 class="text-4xl text-center py-4">Video Hopper</h1>
+    </header>
+  
+    {% block content %}
+    {% endblock %}
+  
+    <footer>
+      <p class="text-center py-4">© 2023 Video Hopper</p>
+    </footer>
+  </body>
+</html>

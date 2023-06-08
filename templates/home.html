@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 m-4">
+  <!-- Each div here represents a video card -->
+  {% for video in videos %}
+  <!-- <div class="bg-white rounded overflow-hidden shadow-lg"> -->
+  <div class="each mb-10 m-2 shadow-lg border-gray-800 bg-gray-100 relative">
+    <div>
+    <!-- <div class="w-full h-0 pb-56.25% relative"> -->
+      <a href="/video?vid={{ video.video_id }}">
+        <img class="w-full aspect-video" src="{{ video.video_thumb_url }}" alt="Video thumbnail">
+      </a>
+    </div>
+    <div class="p-6">
+      <a href="/video?vid={{ video.video_id }}" class="font-bold text-xl mb-2">{{ video.video_name }}</a>
+      <p class="text-gray-500 text-sm">{{ video.video_date }}</p>
+      <p class="text-gray-700 text-base">{{ video.video_short_description }}</p>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+{% endblock %}
