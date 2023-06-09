@@ -7,17 +7,18 @@
     <script src="https://unpkg.com/htmx.org@1.7.0"></script>
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='dist/main.css') }}">
   </head>
-  <body>
-    <header>
-      <h1 class="text-4xl text-center py-4"><a href="/">Video Hopper</a></h1>
-      <h2 class="text-xl text-center py-4">Search and Hop Through Video Transcripts</h2>
+  <body class="flex flex-col min-h-screen">
+    <header class="container mx-auto">
+      <h1 class="text-3xl font-bold text-left mt-4"><a href="/">Video Hopper</a></h1>
+      <h2 class="text-sm text-teal-700 text-left mt-2">Search and Hop Through Video Transcripts</h2>
     </header>
-  
+    <main class="flex-grow">
+      <!-- main content goes here -->
     {% block content %}
     {% endblock %}
-  
+    </main>
     <footer>
-      <p class="text-center py-4">© 2023 Video Hopper</p>
+      <p class="text-center text-sm text-slate-500 py-4">© 2023 Video Hopper - Tahir Fayyaz</p>
     </footer>
   </body>
 </html>

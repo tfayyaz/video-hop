@@ -51,8 +51,18 @@ def search():
     search_results = [entry for entry in data if search_term.lower() in entry['text'].lower()]
     
     # prepare the HTML string
-    html_string = ""
+    html_string = """<tr class="hover:bg-slate-50">
+          <td class="border text-slate-500 text-sm px-2 py-2 hover:bg-slate-50">Search above or hop to the start of the video...</td>
+          <td class="border px-2 py-2 min-w-128 hover:bg-slate-50">
+            <button 
+            class="whitespace-nowrap min-w-128 bg-teal-500 hover:bg-teal-700 text-xs text-white py-2 px-2 rounded"
+            hx-get="/video-hop?vid={{ video.video_id }}&start=0" hx-target="#video-player" hx-swap="outerHTML">Hop to 00:00:00
+            </button>
+          </td>
+          </tr>"""
+    
     if(search_term != ''):
+        html_string = ""
         for result in search_results:
 
             # convert transcript start time into human readable time
@@ -63,11 +73,11 @@ def search():
             seconds_trimmed = int(start_time_float) 
 
             html_string += f"""<tr>
-            <tr>
-            <td class="border px-4 py-2">{result['text']}</td>
-            <td class="border px-4 py-2">
+            <tr class="hover:bg-slate-50">
+            <td class="border text-slate-500 text-sm px-2 py-2">{result['text']}</td>
+            <td class="border px-2 py-2">
               <button 
-              class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-1 px-2 rounded"
+              class="whitespace-nowrap overflow-hidden bg-teal-500 hover:bg-teal-700 text-xs text-white py-2 px-2 rounded"
               hx-get="/video-hop?vid={video_id}&start={seconds_trimmed}" hx-target="#video-player" hx-swap="outerHTML">Hop to {readable_time}
               </button>
             </td>
