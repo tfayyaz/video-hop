@@ -29,6 +29,11 @@ $ tailwindcss -i ./static/src/main.css -o ./static/dist/main.css --minify
 >> Done in 315ms.
 ```
 
+Launch app
+
+```sh
+python3 app.py
+```
 
 Ideas:
 

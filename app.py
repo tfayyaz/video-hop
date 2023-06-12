@@ -28,29 +28,52 @@ def video():
         video = json.load(file)
     return render_template('video.html', video=video)
 
+def search_prev_next(data, search_term):
+    search_results = []
+    for i, entry in enumerate(data):
+        if search_term.lower() in entry['text'].lower():
+
+            modified_entry = {}
+            modified_entry["start"] = entry["start"]
+            modified_entry["time"] = entry["time"]
+            modified_entry["text_list"] = []
+            modified_entry["text_list"].append(entry["text"])
+
+            # Add previous entry if it exists
+            if i > 0:
+                previous_text = data[i-1]['text']
+                previous_start = data[i-1]['start']
+                previous_time = data[i-1]['time']
+                modified_entry["start"] = previous_start
+                modified_entry["time"] = previous_time
+                modified_entry["text_list"].insert(0, previous_text)
+
+            # Add next entry if it exists
+            if i < len(data) - 1:
+                next_text = data[i+1]['text']
+                modified_entry["text_list"].append(next_text)
+
+            modified_entry["text"] = " ".join(modified_entry["text_list"])
+
+            # Add the modified entry
+            search_results.append(modified_entry)
+    return search_results
+    
+
 @app.route('/search', methods=['POST'])
 def search():
     video_id = request.args.get('vid', '')
-    print(video_id)
-    print(request.form)
     search_term = request.form.get('search')
-    print(type(search_term))
     print(search_term)
-    print(search_term == '')
-    
-    # load data from JSON file
-    # with open('data/fabric_day_1.json', 'r') as f:
-    #     data = json.load(f)
-
+ 
     with open(f'./static/data/transcripts/{video_id}.json', 'r') as file:
         video = json.load(file)
         data = video['video_transcript']
-        print(data[0])
 
     # search the data
     search_results = [entry for entry in data if search_term.lower() in entry['text'].lower()]
     
-    # prepare the HTML string
+    # prepare the initial and empty HTML string
     html_string = """<tr class="hover:bg-slate-50">
           <td class="border text-slate-500 text-sm px-2 py-2 hover:bg-slate-50">Search above or hop to the start of the video...</td>
           <td class="border px-2 py-2 min-w-128 hover:bg-slate-50">
@@ -61,6 +84,7 @@ def search():
           </td>
           </tr>"""
     
+    # prepare the search result HTML string
     if(search_term != ''):
         html_string = ""
         for result in search_results:
@@ -71,6 +95,9 @@ def search():
             # trim start time to remove decimal places
             start_time_float = float(result['start']) 
             seconds_trimmed = int(start_time_float) 
+
+            # highlight search_term in result text
+            highlighted_text = result['text'].lower().replace(search_term, f'<span class="bg-teal-500 text-white">{search_term}</span>')
 
             html_string += f"""<tr>
             <tr class="hover:bg-slate-50">
@@ -83,9 +110,8 @@ def search():
             </td>
             </tr>
             """
-            # " <td>{result['duration']}</td></tr>"
 
-    return html_string  # return the HTML string
+    return html_string
 
 @app.route('/video-hop', methods=['GET'])
 def video_hop():
